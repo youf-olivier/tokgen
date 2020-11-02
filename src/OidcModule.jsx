@@ -34,7 +34,13 @@ const OidcModule = ({ setConfIsHidden, clientid, authority }) => {
       </Space>
       {oidcUser?.access_token && (
         <>
-          <div style={{padding:"0 0 1em"}}>
+          <div style={{ padding: '0 0 1em' }}>
+            <div>
+              <div>
+                <b>ID Token</b>
+              </div>
+              {oidcUser.id_token}
+            </div>
             <div>
               <div>
                 <b>Access Token</b>
