@@ -1,0 +1,12 @@
+.button-container{
+    & button{
+        margin: 1em 2em 0;
+    }
+}
+
+.popover-title{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}

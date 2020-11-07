@@ -1,11 +1,12 @@
-import logo from './logo.svg';
-import React, { useCallback, useState } from 'react';
+import { useCallback, useState } from 'react';
+
 import OidcModule from './OidcModule';
+
 import './App.scss';
 import 'antd/dist/antd.css';
-import { Button, Card, Input } from 'antd';
+import Header from 'Header';
+import ConfigurationLoader from 'ConfigurationLoader';
 
-const { TextArea } = Input;
 function useSessionStorage(key, initialValue) {
   const [storedValue, setStoredValue] = useState(() => {
     try {
@@ -30,49 +31,39 @@ function useSessionStorage(key, initialValue) {
 
 function App() {
   const [error, setError] = useState(null);
-  const [strConfig, setStrConfig] = useState('');
   const [oidcConfiguration, setOidcConfiguration] = useSessionStorage('oidcConfig', null);
   const [confIsHidden, setConfIsHidden] = useState(false);
   const location = window.location.href;
 
-  const parseJson = useCallback(() => {
-    setError(null);
-    try {
-      const maConf = {
-        ...JSON.parse(strConfig),
-        redirect_uri: `${location}authentication/callback`,
-        silent_redirect_uri: `${location}authentication/silent_callback`,
-        post_logout_redirect_uri: location,
-      };
-      setOidcConfiguration(maConf);
-    } catch (e) {
-      setError(e.message);
-    }
-  }, [location, setOidcConfiguration, strConfig]);
+  const loadConfiguration = useCallback(
+    strConfig => {
+      setError(null);
+      try {
+        const maConf = {
+          ...JSON.parse(strConfig),
+          redirect_uri: `${location}authentication/callback`,
+          silent_redirect_uri: `${location}authentication/silent_callback`,
+          post_logout_redirect_uri: location,
+        };
+        setOidcConfiguration(maConf);
+      } catch (e) {
+        setError(e.message);
+      }
+    },
+    [location, setOidcConfiguration]
+  );
 
+  const unloadConfiguration = useCallback(() => {
+    setError(null);
+    setOidcConfiguration(null);
+  }, [setOidcConfiguration]);
+  
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-      </header>
+      <Header />
       <div className="container">
         {!confIsHidden && (
-          <Card title="Configuration" style={{ width: 600 }}>
-            <TextArea
-              id="oidcconf"
-              name="oidcconf"
-              rows="15"
-              placeholder="Veuillez copier votre configuration"
-              value={strConfig}
-              onChange={e => {
-                console.log(e);
-                setStrConfig(e.target.value);
-              }}
-            />
-            <Button onClick={parseJson} style={{ margin: '1em' }}>
-              Importer Config
-            </Button>
-          </Card>
+          <ConfigurationLoader loadConfiguration={loadConfiguration} unloadConfiguration={unloadConfiguration} />
         )}
         {Boolean(oidcConfiguration) && (
           <OidcModule

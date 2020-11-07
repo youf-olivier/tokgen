@@ -1,0 +1,1 @@
+export const oidcLink = 'https://github.com/AxaGuilDEv/react-oidc#axa-frreact-oidc';

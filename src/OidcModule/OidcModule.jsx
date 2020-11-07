@@ -1,4 +1,4 @@
-import React, { useEffect } from 'react';
+import { useEffect } from 'react';
 import { AuthenticationProvider, oidcLog, useReactOidc } from '@axa-fr/react-oidc-context';
 import { Alert, Button, Space } from 'antd';
 
