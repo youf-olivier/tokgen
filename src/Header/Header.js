@@ -1,6 +1,6 @@
 import { oidcLink } from "constant";
 import GitHubCorner from "./GithubCorner";
-import logo from 'shared/logo.png';
+import logo from "shared/logo.png";
 
 const Header = () => (
   <>
@@ -11,8 +11,8 @@ const Header = () => (
     <section className="banner-introduction">
       <div className="container">
         <p>
-          Tokgen est un petit utilitaire permettant de générer vos token application à partir d'une configuration de
-          type OIDC
+          Tokgen est un petit utilitaire permettant de générer vos token application à partir d'une
+          configuration OIDC de type <b>Authorization Code (SPA)</b>
         </p>
         <p>Entrez votre configuration OIDC et récupérez vos token</p>
         <p>L'application utilise React OIDC Context pour simuler l'authentification</p>

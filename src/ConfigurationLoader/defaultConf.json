@@ -2,6 +2,5 @@
   "client_id": "interactive.public",
   "response_type": "code",
   "scope": "openid profile email api offline_access",
-  "authority": "https://demo.identityserver.io",
-  "automaticSilentRenew": true
+  "authority": "https://demo.identityserver.io"
 }
