@@ -1,0 +1,490 @@
+﻿CcamCode;Label;ToothMinCount;ToothMaxCount;ComplementaryCode;BaseRefundCCAM;BaseRefundImplant;BaseRefundBridge;GroupingCode;GroupingLabel;OpposableIndicator;ContractControlIndicator;PegaseActCode;NetworkActCodeIND;ActCodeNonGuarantyIND;TeethNumberRequired;SalesLimitPrice;ShortLabel
+GBBA002;Comblement préimplantaire sousmuqueux du sinus maxillaire;;;;0,00;;;ADC;Actes de chirugie;1;N;ADC;;NR;NON;;Comblement
+HAAA001;Approfondissement du vestibule oral [sillon gingivojugal] par section mucopériostée avec greffe cutanée ou muqueuse;;;;104,61;;;ADC;Actes de chirugie;;N;ADC;;;NON;;Approfondis. vestibule
+HAAA002;Approfondissement du vestibule oral [sillon gingivojugal] par section mucopériostée;;;;83,60;;;ADC;Actes de chirugie;;N;ADC;;;NON;;Approfondis. vestibule
+HAFA028;Résection de cicatrice de lèvre;;;;49,22;;;ADC;Actes de chirugie;;N;ADC;;;NON;;Résection
+HALD002;Pose d'un appareillage antiautomorsure;;;;0,00;;;ATM;Actes techniques médicaux (hors imagerie);;N;ATM;;NR;OUI;;Pose apparareillage
+HALD003;Pose d'une plaque palatine active [orthopédique] pour fente orofaciale;;;;48,00;;;ATM;Actes techniques médicaux (hors imagerie);1;N;ATM;;;NON;;Pose plaque palatine
+HALD004;Pose d'une plaque palatine non active [passive] pour fente orofaciale ou division palatine;;;;48,00;;;ATM;Actes techniques médicaux (hors imagerie);1;N;ATM;;;NON;;Pose plaque palatine
+HAPA001;Section de bride muqueuse ou de frein intrabuccal avec plastie par lambeau local;;;;29,34;;;ADC;Actes de chirugie;;N;ADC;;;NON;;Section bride muqueuse
+HAPD001;Section de bride muqueuse ou de frein intrabuccal;;;;20,90;;;ATM;Actes techniques médicaux (hors imagerie);;N;ATM;;;NON; ;Section bride muqueuse
+HASA018;Fermeture d'une communication buccosinusienne par lambeau de glissement vestibulojugal, par abord intrabuccal;;;;146,30;;;ADC;Actes de chirugie;;N;ADC;;;NON;;Fermeture par lambeau
+HBAA338;Allongement coronaire par gingivectomie sur une dent;1;1;;0,00;;;ADC;Actes de chirugie;;N;ADC;;NR;OUI;;Allongement coronaire
+HBBA001;Obturation d’une résorption radiculaire dentaire externe, par abord parodontal;;;;0,00;;;END;Actes d'endodontie;;N;END;;NR;NON;;Obturation radiculaire
+HBBA002;Ostéoplastie additive de l'arcade alvéolaire sur un secteur de 4 à 6 dents;4;6;;0,00;;;ADC;Actes de chirugie;1;N;ADC;;NR;OUI;;Ostéoplastie additive
+HBBA003;Ostéoplastie additive de l'arcade alvéolaire sur un secteur de 1 à 3 dents;1;3;;0,00;;;ADC;Actes de chirugie;1;N;ADC;;NR;OUI;;Ostéoplastie additive
+HBBA004;Ostéoplastie additive de l'arcade alvéolaire sur un secteur de 7 dents ou plus;7;;;0,00;;;ADC;Actes de chirugie;1;N;ADC;;NR;OUI;;Ostéoplastie additive
+HBBD001;Obturation radiculaire d'une prémolaire autre que la première prémolaire maxillaire après apexification;;;;48,20;;;END;Actes d'endodontie;1;N;END;;;OUI;;Obturation radiculaire
+HBBD002;Obturation radiculaire d'une molaire après apexification;;;;81,94;;;END;Actes d'endodontie;1;N;END;;;OUI;;Obturation radiculaire
+HBBD003;Obturation radiculaire d'une incisive ou d'une canine après apexification;;;;33,74;;;END;Actes d'endodontie;1;N;END;;;OUI;;Obturation radiculaire
+HBBD004;Comblement [Scellement] prophylactique des puits, sillons et fissures sur 4 dents;4;4;;86,76;;;AXI;Prophylaxie bucco-dentaire;1;N;AXI;;;OUI;;Comblement
+HBBD005;Comblement [Scellement] prophylactique des puits, sillons et fissures sur 1 dent;1;1;;21,69;;;AXI;Prophylaxie bucco-dentaire;1;N;AXI;;;OUI;;Comblement
+HBBD006;Comblement [Scellement] prophylactique des puits, sillons et fissures sur 2 dents;2;2;;43,38;;;AXI;Prophylaxie bucco-dentaire;1;N;AXI;;;OUI;;Comblement
+HBBD007;Comblement [Scellement] prophylactique des puits, sillons et fissures sur 3 dents;3;3;;65,07;;;AXI;Prophylaxie bucco-dentaire;1;N;AXI;;;OUI;;Comblement
+HBBD039;Comblement [Scellement] prophylactique des puits, sillons et fissures sur 5 dents;5;5;;108,45;;;AXI;Prophylaxie bucco-dentaire;1;N;AXI;;;OUI;;Comblement
+HBBD098;Comblement [Scellement] prophylactique des puits, sillons et fissures sur 7 dents;7;7;;151,83;;;AXI;Prophylaxie bucco-dentaire;1;N;AXI;;;OUI;;Comblement
+HBBD234;Obturation radiculaire d'une première prémolaire maxillaire  après apexification;;;;48,20;;;END;Actes d'endodontie;1;N;END;;;OUI;;Obturation radiculaire
+HBBD404;Comblement [Scellement] prophylactique des puits, sillons et fissures sur 6 dents;6;6;;130,14;;;AXI;Prophylaxie bucco-dentaire;1;N;AXI;;;OUI;;Comblement
+HBBD427;Comblement [Scellement] prophylactique des puits, sillons et fissures sur 8 dents;8;8;;173,52;;;AXI;Prophylaxie bucco-dentaire;1;N;AXI;;;OUI;;Comblement
+HBED001;Réimplantation d'1 dent permanente expulsée;1;1;;96,40;;;ADC;Actes de chirugie;1;N;ADC;;;OUI;;Réimplantation
+HBED003;Réimplantation de 2 dents permanentes expulsées;2;2;;192,80;;;ADC;Actes de chirugie;1;N;ADC;;;OUI;;Réimplantation
+HBED005;Autogreffe d'une dent sur arcade, dans un site naturel ou préparé chirurgicalement;1;1;;0,00;;;ADC;Actes de chirugie;;N;ADC;;NR;OUI;;Autogreffe
+HBED011;Réduction de luxation d'une dent;1;1;;0,00;;;ADC;Actes de chirugie;;N;ADC;;NR;OUI;;Réduction luxation
+HBED016;Réduction de luxation de plusieurs dents;;;;0,00;;;ADC;Actes de chirugie;;N;ADC;;NR;OUI;;Réduction luxation
+HBED021;Réimplantation de 3 dents permanentes expulsées;3;3;;289,20;;;ADC;Actes de chirugie;1;N;ADC;;;OUI;;Réimplantation
+HBED022;Autogreffe d'un germe ou d'une dent retenue, dans un site naturel ou préparé chirurgicalement;;;;209,00;;;ADC;Actes de chirugie;1;N;ADC;;;OUI;;Autogreffe
+HBED023;Greffe épithélioconjonctive ou conjonctive sur la gencive, sur un secteur de 1 à 3 dents;1;3;;0,00;;;TDS;Parodontologie (actes sur tissus de soutien de la dent);1;N;TDS;;NR;OUI;;Greffe gingivale
+HBED024;Greffe épithélioconjonctive ou conjonctive sur la gencive, sur un sextant;;;;0,00;;;TDS;Parodontologie (actes sur tissus de soutien de la dent);1;N;TDS;;NR;OUI;;Greffe gingivale
+HBFA003;Ostéoplastie soustractive de l'arcade alvéolaire sur un secteur de 7 dents ou plus;7;;;0,00;;;TDS;Parodontologie (actes sur tissus de soutien de la dent);;N;TDS;;NR;OUI;;Ostéoplastie
+HBFA004;Ostéoplastie soustractive de l'arcade alvéolaire sur un secteur de 4 à 6 dents;4;6;;0,00;;;TDS;Parodontologie (actes sur tissus de soutien de la dent);;N;TDS;;NR;OUI;;Ostéoplastie
+HBFA005;Ostéoplastie soustractive de l'arcade alvéolaire sur un secteur de 1 à 3 dents;1;3;;0,00;;;TDS;Parodontologie (actes sur tissus de soutien de la dent);;N;TDS;;NR;OUI;;Ostéoplastie
+HBFA006;Gingivectomie sur un secteur de 1 à 3 dents;1;3;;0,00;;;TDS;Parodontologie (actes sur tissus de soutien de la dent);;N;TDS;;NR;OUI;;Gingivectomie
+HBFA007;Gingivectomie sur un secteur de 4 à 6 dents;4;6;;41,80;;;TDS;Parodontologie (actes sur tissus de soutien de la dent);1;N;TDS;;;OUI;;Gingivectomie
+HBFA008;Gingivectomie  sur un secteur de 7 dents ou plus;7;;;0,00;;;TDS;Parodontologie (actes sur tissus de soutien de la dent);;N;TDS;;NR;OUI;;Gingivectomie
+HBFA012;Exérèse d'hypertrophie gingivale ou de crête flottante sur une arcade maxillaire ou mandibulaire complète;;;;0,00;;;TDS;Parodontologie (actes sur tissus de soutien de la dent);;N;TDS;;NR;NON;;Exérèse
+HBFA013;Exérèse d'hypertrophie gingivale ou de crête flottante localisée;;;;0,00;;;TDS;Parodontologie (actes sur tissus de soutien de la dent);;N;TDS;;NR;NON;;Exérèse
+HBFD001;Exérèse du contenu canalaire non vivant d’une incisive ou d’une canine permanente;;;;33,74;;;END;Actes d'endodontie;1;N;END;;;OUI;;Exérèse
+HBFD003;Exérèse du contenu canalaire non vivant d’une prémolaire autre que la première prémolaire maxillaire;;;;48,20;;;END;Actes d'endodontie;1;N;END;;;OUI;;Exérèse
+HBFD006;Exérèse de la pulpe camérale [Biopulpotomie] d'une dent temporaire;1;1;;23,00;;;END;Actes d'endodontie;1;N;END;;;OUI;;Exérèse
+HBFD008;Exérèse de la pulpe vivante d’une molaire permanente;;;;81,94;;;END;Actes d'endodontie;1;N;END;;;OUI;;Exérèse
+HBFD010;parage de plaie de la pulpe d'une dent avec coiffage;1;1;;60,00;;;SDE;Soins dentaires;;N;SDE;;;OUI;;Parage de plaie
+HBFD014;Amputation et/ou séparation radiculaire ou coronoradiculaire d'une dent;1;1;;0,00;;;ADC;Actes de chirugie;;N;ADC;;NR;OUI;;Amputation/séparation
+HBFD015;Exérèse du contenu canalaire non vivant d'une incisive ou d'une canine temporaire;;;;33,74;;;END;Actes d'endodontie;1;N;END;;;OUI;;Exérèse
+HBFD017;Exérèse de la pulpe vivante d’une incisive ou d’une canine temporaire;;;;33,74;;;END;Actes d'endodontie;1;N;END;;;OUI;;Exérèse
+HBFD019;Exérèse de la pulpe vivante d’une molaire temporaire;;;;81,94;;;END;Actes d'endodontie;1;N;END;;;OUI;;Exérèse
+HBFD021;Exérèse de la pulpe vivante d’une première prémolaire maxillaire;;;;48,20;;;END;Actes d'endodontie;1;N;END;;;OUI;;Exérèse
+HBFD024;Exérèse du contenu canalaire non vivant d’une molaire permanente;;;;81,94;;;END;Actes d'endodontie;1;N;END;;;OUI;;Exérèse
+HBFD032;Exérèse partielle de la pulpe vivante d'une dent permanente immature pour apexogénèse;1;1;;0,00;;;END;Actes d'endodontie;;N;END;;NR;OUI;;Exérèse
+HBFD033;Exérèse de la pulpe vivante d’une incisive ou d’une canine permanente;;;;33,74;;;END;Actes d'endodontie;1;N;END;;;OUI;;Exérèse
+HBFD035;Exérèse de la pulpe vivante d’une prémolaire autre que la première prémolaire maxillaire;;;;48,20;;;END;Actes d'endodontie;1;N;END;;;OUI;;Exérèse
+HBFD150;Exérèse du contenu canalaire non vivant d’une molaire permanente immature;;;;81,94;;;END;Actes d'endodontie;1;N;END;;;OUI;;Exérèse
+HBFD297;Exérèse du contenu canalaire non vivant d’une première prémolaire maxillaire;;;;48,20;;;END;Actes d'endodontie;1;N;END;;;OUI;;Exérèse
+HBFD326;Exérèse du contenu canalaire non vivant d’une prémolaire immature autre que la première prémolaire maxillaire ;;;;48,20;;;END;Actes d'endodontie;1;N;END;;;OUI;;Exérèse
+HBFD395;Exérèse du contenu canalaire non vivant d’une première prémolaire maxillaire immature;;;;48,20;;;END;Actes d'endodontie;1;N;END;;;OUI;;Exérèse
+HBFD458;Exérèse du contenu canalaire non vivant d’une incisive ou d'une canine permanente immature;;;;33,74;;;END;Actes d'endodontie;1;N;END;;;OUI;;Exérèse
+HBFD474;Exérèse du contenu canalaire non vivant d'une molaire temporaire;;;;81,94;;;END;Actes d'endodontie;1;N;END;;;OUI;;Exérèse
+HBGB001;Curetage d'alvéole dentaire;;;;0,00;;;ADC;Actes de chirugie;;N;ADC;;NR;OUI;;Curetage
+HBGB002;Curetage périapical avec résection de l'apex et obturation radiculaire d'une prémolaire;;;;98,36;;;ADC;Actes de chirugie;1;N;ADC;;;OUI;;Curetage
+HBGB003;Curetage périapical avec résection de l'apex et obturation radiculaire d'une incisive ou d'une canine;;;;83,90;;;ADC;Actes de chirugie;1;N;ADC;;;OUI;;Curetage
+HBGB004;Curetage périapical avec résection de l'apex et obturation radiculaire d'une molaire;;;;132,10;;;ADC;Actes de chirugie;1;N;ADC;;;OUI;;Curetage
+HBGB005;Curetage périapical avec résection de l'apex d'une racine dentaire endodontiquement traitée;;;;50,16;;;ADC;Actes de chirugie;1;N;ADC;;;OUI;;Curetage
+HBGB006;Surfaçage radiculaire dentaire sur un sextant;;;;0,00;;;TDS;Parodontologie (actes sur tissus de soutien de la dent);;N;TDS;;NR;OUI;;Surfaçage radiculaire
+HBGD001;Désobturation endodontique d’une prémolaire autre que la première prémolaire maxillaire;;;;0,00;;;END;Actes d'endodontie;;N;END;;NR;OUI;;Désobturation endo.
+HBGD002;Avulsion de 2 dents ankylosées sur arcade, avec section coronoradiculaire et séparation des racines;2;2;;50,16;;;ADC;Actes de chirugie;1;N;ADC;;;OUI;;Avulsion
+HBGD003;Avulsion d'un odontoïde inclus ou d'une dent surnuméraire à l'état de germe;;;;83,60;;;ADC;Actes de chirugie;1;N;ADC;;;OUI;;Avulsion
+HBGD004;Avulsion d'une troisième molaire mandibulaire retenue ou à l'état de germe;1;1;;83,60;;;ADC;Actes de chirugie;1;N;ADC;;;OUI;;Avulsion
+HBGD005;Ablation d’un ancrage coronoradiculaire;;;;0,00;;;RPN;Réparations sur prothèse;;N;RPN;;NR;OUI;;Ablation
+HBGD009;Ablation d'une prothèse dentaire implantoportée;;;;0,00;;;RPN;Réparations sur prothèse;;N;RPN;;NR;OUI;;Ablation
+HBGD011;Ablation  d'un bloc métallique coulé ou d'une prothèse dentaire à tenon radiculaire scellé;;;;0,00;;;RPN;Réparation prothèse Tarif libre;2;N;RPN;;NR;OUI;;Ablation
+HBGD012;Ablation d'un corps étranger métallique d'un canal radiculaire d'une dent;;;;0,00;;;END;Actes d'endodontie;;N;END;;NR;OUI;;Ablation
+HBGD014;Avulsion d'une canine permanente retenue ou à l'état de germe;1;1;;104,50;;;ADC;Actes de chirugie;1;N;ADC;;;OUI;;Avulsion
+HBGD015;Avulsion de 2 canines permanentes  retenues ou à l'état de germe;2;2;;156,75;;;ADC;Actes de chirugie;1;N;ADC;;;OUI;;Avulsion
+HBGD016;Avulsion d'une racine incluse;1;1;;83,60;;;ADC;Actes de chirugie;1;N;ADC;;;OUI;;Avulsion
+HBGD017;Avulsion d'une dent ectopique;1;1;;167,20;;;ADC;Actes de chirugie;1;N;ADC;;;OUI;;Avulsion
+HBGD018;Avulsion d'une troisième molaire maxillaire retenue ou à l'état de germe;1;1;;83,60;;;ADC;Actes de chirugie;1;N;ADC;;;OUI;;Avulsion
+HBGD021;Avulsion de 3 troisièmes molaires retenues ou à l'état de germe;3;3;;167,20;;;ADC;Actes de chirugie;1;N;ADC;;;OUI;;Avulsion
+HBGD022;Avulsion d'1 dent permanente sur arcade avec alvéolectomie;1;1;;33,44;;;ADC;Actes de chirugie;1;N;ADC;;;OUI;;Avulsion
+HBGD025;Avulsion de 2 troisièmes molaires retenues ou à l'état de germe;2;2;;125,40;;;ADC;Actes de chirugie;1;N;ADC;;;OUI;;Avulsion
+HBGD026;Avulsion de 2 dents temporaires retenues, incluses ou réincluses;2;2;;125,40;;;ADC;Actes de chirugie;1;N;ADC;;;OUI;;Avulsion
+HBGD027;Ablation d'une prothèse dentaire scellée unitaire ou plurale;;;;0,00;;;RPN;Réparation prothèse Tarif libre;2;N;RPN;;NR;OUI;;Ablation
+HBGD028;Avulsion d'une incisive permanente retenue ou à l'état de germe;1;1;;83,60;;;ADC;Actes de chirugie;1;N;ADC;;;OUI;;Avulsion
+HBGD030;Désobturation endodontique d'une incisive ou d'une canine;;;;0,00;;;END;Actes d'endodontie;;N;END;;NR;OUI;;Désobturation endo.
+HBGD031;Avulsion d'1 dent permanente sur arcade avec séparation des racines;1;1;;33,44;;;ADC;Actes de chirugie;1;N;ADC;;;OUI;;Avulsion
+HBGD032;Avulsion de 2 dents permanentes sur arcade avec séparation des racines;2;2;;50,16;;;ADC;Actes de chirugie;1;N;ADC;;;OUI;;Avulsion
+HBGD033;Désobturation endodontique d'une molaire;;;;0,00;;;END;Actes d'endodontie;;N;END;;NR;OUI;;Désobturation endo.
+HBGD034;Avulsion de 2 dents permanentes sur arcade avec alvéolectomie;2;2;;50,16;;;ADC;Actes de chirugie;1;N;ADC;;;OUI;;Avulsion
+HBGD035;Avulsion d'1 dent temporaire sur arcade;1;1;;25,00;;;ADC;Actes de chirugie;1;N;ADC;;;OUI;;Avulsion
+HBGD036;Avulsion de 1 dent permanente sur arcade sans alvéolectomie;1;1;;33,44;;;ADC;Actes de chirugie;1;N;ADC;;;OUI;;Avulsion
+HBGD037;Avulsion de 2 dents temporaires sur arcade;2;2;;30,00;;;ADC;Actes de chirugie;1;N;ADC;;;OUI;;Avulsion
+HBGD038;Avulsion de 4 troisièmes molaires retenues ou à l'état de germe;4;4;;209,00;;;ADC;Actes de chirugie;1;N;ADC;;;OUI;;Avulsion
+HBGD039;Avulsion d'1 dent ankylosée sur arcade, avec section coronoradiculaire et séparation des racines;1;1;;33,44;;;ADC;Actes de chirugie;1;N;ADC;;;OUI;;Avulsion
+HBGD040;Avulsion de plusieurs dents surnuméraires à l'état de germe ou de plusieurs odontoïdes;;;;125,40;;;ADC;Actes de chirugie;1;N;ADC;;;OUI;;Avulsion
+HBGD042;Avulsion d’1 dent temporaire retenue, incluse ou réincluse;1;1;;83,60;;;ADC;Actes de chirugie;1;N;ADC;;;OUI;;Avulsion
+HBGD043;Avulsion de 2 dents permanentes sur arcade sans alvéolectomie;2;2;;50,16;;;ADC;Actes de chirugie;1;N;ADC;;;OUI;;Avulsion
+HBGD044;Avulsion d'une dent à couronne sousmuqueuse ou en désinclusion muqueuse;1;1;;41,80;;;ADC;Actes de chirugie;1;N;ADC;;;OUI;;Avulsion
+HBGD047;Avulsion d'une première ou d'une deuxième molaire permanente retenue ou à l'état de germe;1;1;;83,60;;;ADC;Actes de chirugie;1;N;ADC;;;OUI;;Avulsion
+HBGD054;Avulsion de 12 dents temporaires sur arcade;12;12;;108,68;;;ADC;Actes de chirugie;1;N;ADC;;;OUI;;Avulsion
+HBGD057;Avulsion de 15 dents temporaires sur arcade;15;15;;133,76;;;ADC;Actes de chirugie;1;N;ADC;;;OUI;;Avulsion
+HBGD064;Avulsion de 10 dents permanentes sur arcade sans alvéolectomie;10;10;;183,92;;;ADC;Actes de chirugie;1;N;ADC;;;OUI;;Avulsion
+HBGD065;Avulsion de 5 dents temporaires sur arcade;5;5;;50,16;;;ADC;Actes de chirugie;1;N;ADC;;;OUI;;Avulsion
+HBGD076;Avulsion de 7 dents permanentes sur arcade sans alvéolectomie;7;7;;133,76;;;ADC;Actes de chirugie;1;N;ADC;;;OUI;;Avulsion
+HBGD093;Avulsion de 10 dents temporaires sur arcade;10;10;;91,96;;;ADC;Actes de chirugie;1;N;ADC;;;OUI;;Avulsion
+HBGD106;Avulsion de 6 dents permanentes sur arcade sans alvéolectomie;6;6;;117,04;;;ADC;Actes de chirugie;1;N;ADC;;;OUI;;Avulsion
+HBGD111;Avulsion de 13 dents temporaires sur arcade;13;13;;117,04;;;ADC;Actes de chirugie;1;N;ADC;;;OUI;;Avulsion
+HBGD123;Avulsion de 17 dents temporaires sur arcade;17;17;;150,48;;;ADC;Actes de chirugie;1;N;ADC;;;OUI;;Avulsion
+HBGD133;Avulsion de 16 dents temporaires sur arcade;16;16;;142,12;;;ADC;Actes de chirugie;1;N;ADC;;;OUI;;Avulsion
+HBGD146;Avulsion de 12 dents permanentes sur arcade sans alvéolectomie;12;12;;217,36;;;ADC;Actes de chirugie;1;N;ADC;;;OUI;;Avulsion
+HBGD174;Avulsion de 14 dents temporaires sur arcade;14;14;;125,40;;;ADC;Actes de chirugie;1;N;ADC;;;OUI;;Avulsion
+HBGD193;Avulsion de 28 dents permanentes sur arcade sans alvéolectomie;28;28;;484,88;;;ADC;Actes de chirugie;1;N;ADC;;;OUI;;Avulsion
+HBGD197;Avulsion de 15 dents permanentes sur arcade sans alvéolectomie;15;15;;267,52;;;ADC;Actes de chirugie;1;N;ADC;;;OUI;;Avulsion
+HBGD201;Avulsion de 20 dents temporaires sur arcade;20;20;;175,56;;;ADC;Actes de chirugie;1;N;ADC;;;OUI;;Avulsion
+HBGD233;Désobturation endodontique d’une première prémolaire maxillaire;;;;0,00;;;END;Actes d'endodontie;;N;END;;NR;OUI;;Désobturation endo.
+HBGD235;Avulsion de 23 dents permanentes sur arcade sans alvéolectomie;13;23;;401,28;;;ADC;Actes de chirugie;1;N;ADC;;;OUI;;Avulsion
+HBGD245;Avulsion de 31 dents permanentes sur arcade sans alvéolectomie;31;31;;535,04;;;ADC;Actes de chirugie;1;N;ADC;;;OUI;;Avulsion
+HBGD247;Avulsion de 14 dents permanentes sur arcade sans alvéolectomie;14;14;;250,80;;;ADC;Actes de chirugie;1;N;ADC;;;OUI;;Avulsion
+HBGD258;Avulsion de 21 dents permanentes sur arcade sans alvéolectomie;21;21;;367,84;;;ADC;Actes de chirugie;1;N;ADC;;;OUI;;Avulsion
+HBGD261;Avulsion de 17 dents permanentes sur arcade sans alvéolectomie;17;17;;300,96;;;ADC;Actes de chirugie;1;N;ADC;;;OUI;;Avulsion
+HBGD263;Avulsion de 8 dents temporaires sur arcade;8;8;;75,24;;;ADC;Actes de chirugie;1;N;ADC;;;OUI;;Avulsion
+HBGD278;Avulsion de 20 dents permanentes sur arcade sans alvéolectomie;20;20;;351,12;;;ADC;Actes de chirugie;1;N;ADC;;;OUI;;Avulsion
+HBGD280;Avulsion de 9 dents temporaires sur arcade;9;9;;83,60;;;ADC;Actes de chirugie;1;N;ADC;;;OUI;;Avulsion
+HBGD282;Avulsion de 19 dents temporaires sur arcade;19;19;;167,20;;;ADC;Actes de chirugie;1;N;ADC;;;OUI;;Avulsion
+HBGD283;Avulsion de 32 dents permanentes sur arcade sans alvéolectomie;32;32;;551,76;;;ADC;Actes de chirugie;1;N;ADC;;;OUI;;Avulsion
+HBGD284;Avulsion de 4 dents temporaires sur arcade;4;4;;41,80;;;ADC;Actes de chirugie;1;N;ADC;;;OUI;;Avulsion
+HBGD285;Avulsion de 26 dents permanentes sur arcade sans alvéolectomie;26;26;;451,44;;;ADC;Actes de chirugie;1;N;ADC;;;OUI;;Avulsion
+HBGD287;Avulsion de 3 dents permanentes sur arcade avec alvéolectomie;3;3;;66,88;;;ADC;Actes de chirugie;1;N;ADC;;;OUI;;Avulsion
+HBGD300;Avulsion d'une dent en désinclusion avec couronne sous muqueuse en position palatine ou linguale;1;1;;104,50;;;ADC;Actes de chirurgie;1;N;ADC;;;OUI;;Avulsion
+HBGD309;Avulsion de 3 dents temporaires sur arcade;3;3;;33,44;;;ADC;Actes de chirugie;1;N;ADC;;;OUI;;Avulsion
+HBGD311;Avulsion de 22 dents permanentes sur arcade sans alvéolectomie;22;22;;384,56;;;ADC;Actes de chirugie;1;N;ADC;;;OUI;;Avulsion
+HBGD319;Avulsion de 3 dents permanentes sur arcade sans alvéolectomie;3;3;;66,88;;;ADC;Actes de chirugie;1;N;ADC;;;OUI;;Avulsion
+HBGD333;Avulsion de 16 dents permanentes sur arcade sans alvéolectomie;16;16;;284,24;;;ADC;Actes de chirugie;1;N;ADC;;;OUI;;Avulsion
+HBGD338;Avulsion de 27 dents permanentes sur arcade sans alvéolectomie;27;27;;468,16;;;ADC;Actes de chirugie;1;N;ADC;;;OUI;;Avulsion
+HBGD345;Avulsion de 29 dents permanentes sur arcade sans alvéolectomie;29;29;;501,60;;;ADC;Actes de chirugie;1;N;ADC;;;OUI;;Avulsion
+HBGD356;Avulsion de 11 dents permanentes sur arcade sans alvéolectomie;11;11;;200,64;;;ADC;Actes de chirugie;1;N;ADC;;;OUI;;Avulsion
+HBGD362;Avulsion de 11 dents temporaires sur arcade;11;11;;100,32;;;ADC;Actes de chirugie;1;N;ADC;;;OUI;;Avulsion
+HBGD374;Avulsion de 24 dents permanentes sur arcade sans alvéolectomie;24;24;;418,00;;;ADC;Actes de chirugie;1;N;ADC;;;OUI;;Avulsion
+HBGD382;Avulsion de 13 dents permanentes sur arcade sans alvéolectomie;13;13;;234,08;;;ADC;Actes de chirugie;1;N;ADC;;;OUI;;Avulsion
+HBGD386;Avulsion de 2 prémolaires retenues ou à l'état de germe;2;2;;125,40;;;ADC;Actes de chirugie;1;N;ADC;;;OUI;;Avulsion
+HBGD414;Avulsion de 30 dents permanentes sur arcade sans alvéolectomie;30;30;;518,32;;;ADC;Actes de chirugie;1;N;ADC;;;OUI;;Avulsion
+HBGD420;Avulsion de 9 dents permanentes sur arcade sans alvéolectomie;9;9;;167,20;;;ADC;Actes de chirugie;1;N;ADC;;;OUI;;Avulsion
+HBGD422;Avulsion de 8 dents permanentes sur arcade sans alvéolectomie;8;8;;150,48;;;ADC;Actes de chirugie;1;N;ADC;;;OUI;;Avulsion
+HBGD459;Avulsion d'une prémolaire retenue ou à l'état de germe ;1;1;;83,60;;;ADC;Actes de chirugie;1;N;ADC;;;OUI;;Avulsion
+HBGD461;Avulsion de 19 dents permanentes sur arcade sans alvéolectomie;19;19;;334,40;;;ADC;Actes de chirugie;1;N;ADC;;;OUI;;Avulsion
+HBGD462;Avulsion de 6 dents temporaires sur arcade;6;6;;58,52;;;ADC;Actes de chirugie;1;N;ADC;;;OUI;;Avulsion
+HBGD464;Avulsion de 7 dents temporaires sur arcade;7;7;;66,88;;;ADC;Actes de chirugie;1;N;ADC;;;OUI;;Avulsion
+HBGD468;Avulsion de 18 dents temporaires sur arcade;18;18;;158,84;;;ADC;Actes de chirugie;1;N;ADC;;;OUI;;Avulsion
+HBGD475;Avulsion de 25 dents permanentes sur arcade sans alvéolectomie;25;25;;434,72;;;ADC;Actes de chirugie;1;N;ADC;;;OUI;;Avulsion
+HBGD489;Avulsion de 4 dents permanentes sur arcade sans alvéolectomie;4;4;;83,60;;;ADC;Actes de chirugie;1;N;ADC;;;OUI;;Avulsion
+HBGD497;Avulsion de 5 dents permanentes sur arcade sans alvéolectomie;5;5;;100,32;;;ADC;Actes de chirugie;1;N;ADC;;;OUI;;Avulsion
+HBGD499;Avulsion de 18 dents permanentes sur arcade sans alvéolectomie;18;18;;317,68;;;ADC;Actes de chirugie;1;N;ADC;;;OUI;;Avulsion
+HBJA003;Assainissement parododontal par lambeau sur un sextant;;;;0,00;;;TDS;Parodontologie (actes sur tissus de soutien de la dent);;N;TDS;;NR;NON;;Assainiss. lambeau
+HBJA171;Assainissement parodontal [détartrage-surfaçage radiculaire] [DSR] sur 2 sextants ;;;;0,00;;;TDS;Parodontologie (actes sur tissus de soutien de la dent);;N;TDS;;;NON;;Surfaçage radiculaire
+HBJA634 ;Assainissement parodontal [détartrage-surfaçage radiculaire] [DSR] sur 3 sextants ou plus;;;;0,00;;;TDS;Parodontologie (actes sur tissus de soutien de la dent);;N;TDS;;;NON;;Surfaçage radiculaire
+HBJB001;Évacuation d'abcès parodontal;;;;40,00;;;TDS;Parodontologie (actes sur tissus de soutien de la dent);1;N;TDS;; ;NON;;Evacuation abcès paro
+HBJD001;Détartrage et polissage des dents;;;;28,92;;;AXI;Prophylaxie bucco-dentaire;1;N;AXI;;;NON;;Détartrage polissage
+HBKD005;Changement de dispositif d'attachement d'une prothèse dentaire amovible supra implantaire;;;;0,00;;;RPN;Réparation prothèse Tarif libre;2;N;RPN;;NR;OUI;;Réparation
+HBKD140;Changement de 7 facettes d'une prothèse dentaire amovible ;;;;120,40;;;RF0;Réparation facette  prothèse amovible RAC 0;2;N;RF0;;;OUI;;Changement facettes
+HBKD212;Changement de 4 facettes d'une prothèse dentaire amovible ;;;;68,80;;;RF0;Réparation facette  prothèse amovible RAC 0;2;N;RF0;;;OUI;;Changement facettes
+HBKD213;Changement de 6 facettes d'une prothèse dentaire amovible ;;;;103,20;;;RF0;Réparation facette  prothèse amovible RAC 0;2;N;RF0;;;OUI;;Changement facettes
+HBKD244;Changement de 8 facettes d'une prothèse dentaire amovible ;;;;137,60;;;RF0;Réparation facette  prothèse amovible RAC 0;2;N;RF0;;;OUI;;Changement facettes
+HBKD300;Changement de 3 facettes d'une prothèse dentaire amovible ;;;;51,60;;;RF0;Réparation facette  prothèse amovible RAC 0;2;N;RF0;;;OUI;;Changement facettes
+HBKD396;Changement d'1 facette d'une prothèse dentaire amovible;;;;17,20;;;RF0;Réparation facette  prothèse amovible RAC 0;2;N;RF0;;;OUI;;Changement facette
+HBKD431;Changement de 2 facettes d'une prothèse dentaire amovible ;;;;34,40;;;RF0;Réparation facette  prothèse amovible RAC 0;2;N;RF0;;;OUI;;Changement facettes
+HBKD462;Changement de 5 facettes d'une prothèse dentaire amovible ;;;;86,00;;;RF0;Réparation facette  prothèse amovible RAC 0;2;N;RF0;;;OUI;;Changement facettes
+HBLD001;Pose d’un arc de maintien d’espace interdentaire sans dent prothétique;;;;0,00;;;PDT;Prothèses dentaires provisoires;;;PDT;;NR;OUI;;Pose arc de maintien
+HBLD002;Pose d’un mainteneur d’espace interdentaire amovible passif;;;;0,00;;;PDT;Prothèses dentaires provisoires;;;PDT;;NR;OUI;;Pose mainteneur espace
+HBLD003;Pose d’un arc de maintien d’espace interdentaire avec dent prothétique;;;;0,00;;;PDT;Prothèses dentaires provisoires;;;PDT;;NR;OUI;;Pose arc de maintien
+HBLD004;Séance d'application topique intrabuccale de fluorures;;;;0,00;;;AXI;Prophylaxie bucco-dentaire;;N;AXI;;NR;OUI;;Application fluorure
+HBLD005;Pose d'infrastructure coronaire sur 5 implants ou plus;;;;0,00;;;IMP;Implantologie;;N;IMP;;DIM;OUI;;Faux Moignon Implant.
+HBLD006;Pose d’un mainteneur d’espace interdentaire unitaire scellé;;;;0,00;;;PDT;Prothèses dentaires provisoires;;;PDT;;NR;OUI;;Pose mainteneur espace
+HBLD008;Pose d'un attachement coronoradiculaire sur une dent;1;1;;0,00;;;ATM;Actes techniques médicaux (hors imagerie);;N;ATM;;NR;OUI;;Pose attachement
+HBLD009;Application d’un topique pour hypersensibilité dentinaire;;;;0,00;;;AXI;Prophylaxie bucco-dentaire;;N;AXI;;NR;NON;;Application topique
+HBLD012;Pose d'une infrastructure coronaire sur 1 implant;;;;0,00;;;IMP;Implantologie;;N;IMP;;DIM;OUI;;Faux Moignon Implant.
+HBLD013;Pose d'infrastructure coronaire sur 4 implants;;;;0,00;;;IMP;Implantologie;;N;IMP;;DIM;OUI;;Faux Moignon Implant.
+HBLD015;Pose d'une coiffe de recouvrement d'une racine dentaire [Coping];;;;0,00;;;ATM;Actes techniques médicaux (hors imagerie);;N;ATM;;NR;OUI;;Coiffe de recouvrement
+HBLD017;Pose d'infrastructure coronaire sur 2 implants;;;;0,00;;;IMP;Implantologie;;N;IMP;;DIM;OUI;;Faux Moignon Implant.
+HBLD018;Pose d'un plan de libération occlusale;;;;172,80;;;ATM;Actes techniques médicaux (hors imagerie);1;N;ATM;;;NON;;Gouttière occlusale
+HBLD019;Pose d'un plan de guidage des mouvements antéropostérieurs mandibulaires;;;;0,00;;;ATM;Actes techniques médicaux (hors imagerie);;N;ATM;;NR;NON;;Pose plan de guidage
+HBLD020;Pose d'un appareil de posture mandibulaire [cale];;;;0,00;;;ATM;Actes techniques médicaux (hors imagerie);;N;ATM;;NR;OUI;;Pose apparareillage
+HBLD021;Pose d'infrastructure coronaire sur 3 implants;;;;0,00;;;IMP;Implantologie;;N;IMP;;DIM;OUI;;Faux Moignon Implant.
+HBLD030;Pose d'une prothèse dentaire complète transvissée implantoportée;;;;182,75;;;PFC;Prothèse amovible résine Tarif libre;2;O;PFC;RAM;;OUI;;Proth implantoportée
+HBLD031;Pose d'une prothèse amovible définitive complète unimaxillaire à plaque base résine;;;;182,75;;;PA0;Prothèse amovible RAC 0;2;O;PA0;RAM;;OUI;;Proth amovible résine
+HBLD032;Pose d'une prothèse amovible de transition complète unimaxillaire à plaque base résine;;;;182,75;;;PT0;Prothèse amovible de transition RAC 0;2;O;PT0;RAM;;OUI;;Prothèse transitoire
+HBLD033;Pose d'une prothèse plurale [bridge] comportant 2 piliers d'ancrage métalliques et 1 élément intermédiaire métallique;;;;279,50;0,00;279,50;CM0;Prothèse fixe métallique RAC0;2;O;CM0;PFP;;OUI;870,00;Bridge
+HBLD034;Pose d’une prothèse dentaire plurale transitoire collée;;;;0,00;;;PDT;Prothèses dentaires provisoires;;;PDT;;NR;OUI;;Prothèse transitoire
+HBLD035;Pose d'une prothèse amovible définitive complète bimaxillaire à plaque base résine;;;;365,50;;;PA0;Prothèse amovible RAC 0;2;O;PA0;RAM;;NON;;Proth amovible résine
+HBLD038;Pose d'une couronne dentaire métallique;;;;120,00;;;CM0;Prothèse fixe métallique RAC0;2;O;CM0;PFP;;OUI;290,00;Couronne métallique
+HBLD040;Pose d'une prothèse plurale [bridge] comportant 1 pilier d'ancrage métallique, 1 pilier d'ancrage céramométallique ou en équivalents minéraux, et 1 élément intermédiaire métallique;;;;279,50;0,00;279,50;BR1; Bridge RAC modéré;2;O;BR1;PFP;;OUI;;Bridge
+HBLD043;Pose d'une prothèse plurale [bridge] comportant 1 pilier d'ancrage métallique, 1 pilier d'ancrage céramométallique ou en équivalents minéraux, et 1 élément intermédiaire céramométallique ou en équivalents minéraux;;;;279,50;0,00;279,50;PF1;Prothèse fixe RAC modéré;2;O;PF1;PFP;;OUI;;Bridge
+HBLD045;Application dentaire d’un vernis de reminéralisation sur une arcade;;;;0,00;;;AXI;Prophylaxie bucco-dentaire;;N;AXI;;NR;OUI;;Application de vernis
+HBLD046;Pose d'une prothèse amovible définitive complète bimaxillaire à châssis métallique;;;;623,50;;;PA1;Prothèse amovible RAC modéré;2;O;PA1;RPA;;OUI;;Proth amovible métal
+HBLD047;Pose d'une prothèse amovible définitive complète unimaxillaire à châssis métallique;;;;311,75;;;PA1;Prothèse amovible RAC modéré;2;O;PA1;RPA;;OUI;;Proth amovible métal
+HBLD048;Pose d'une prothèse amovible définitive complète unimaxillaire à plaque base résine et d'une prothèse amovible définitive complète unimaxillaire à châssis métallique;;;;494,50;;;PA1;Prothèse amovible RAC modéré;2;O;PA1;RPA;;OUI;;Proth amovible métal
+HBLD050;Pose d’un dispositif unimaxillaire de contention extracoronaire par attelle composite collée, sur 7 dents ou plus;7;;;0,00;;;TDS;Parodontologie (actes sur tissus de soutien de la dent);;N;TDS;;NR;OUI;;Dispositif contention
+HBLD051;Pose d’un dispositif unimaxillaire de contention extracoronaire par attelle métallique coulée et collée, sur 7 dents ou plus;7;;;96,40;;;TDS;Parodontologie (actes sur tissus de soutien de la dent);1;N;TDS;;;OUI;;Dispositif contention
+HBLD052;Pose d’un dispositif unimaxillaire de contention extracoronaire par attelle composite collée, sur 1 à 6 dents;1;6;;0,00;;;TDS;Parodontologie (actes sur tissus de soutien de la dent);;N;TDS;;NR;OUI;;Dispositif contention
+HBLD053;Pose d’un dispositif unimaxillaire de contention extracoronaire par attelle métallique coulée et collée, sur 1 à 6 dents;1;6;;96,40;;;TDS;Parodontologie (actes sur tissus de soutien de la dent);1;N;TDS;;;OUI;;Dispositif contention
+HBLD056;Pose d'une plaque base résine pour guide chirurgical préimplantaire dentaire, pour 1 arcade;;;;0,00;;;IMP;Implantologie;1;N;IMP;;DIM;OUI;;Plaque base résine
+HBLD057;Pose d'une plaque base résine pour guide radiologique préimplantaire dentaire, pour 1 arcade;;;;0,00;;;ATM;Actes techniques médicaux (hors imagerie);1;N;ATM;;NR;OUI;;Plaque base résine
+HBLD073;Pose d'une couronne dentaire dentoportée céramique-monolithique (zircone) sur une molaire;1;1;;120,00;;;CZ1;Couronne zircone RAC modéré;;;CZ1;PFP;;OUI;440,00;Couronne zircone
+HBLD075;Pose d'une prothèse amovible définitive à châssis métallique, comportant 7 dents;7;7;;236,50;;;PA1;Prothèse amovible RAC modéré;2;O;PA1;RPA;;OUI;;Proth amovible métal
+HBLD078;Pose d'une plaque base résine pour guide radiologique préimplantaire dentaire pour 2 arcades;;;;0,00;;;ATM;Actes techniques médicaux (hors imagerie);1;N;ATM;;NR;OUI;;Plaque base résine
+HBLD079;Pose d'une prothèse amovible définitive à châssis métallique, comportant 10 dents;10;10;;268,75;;;PA1;Prothèse amovible RAC modéré;2;O;PA1;RPA;;OUI;;Proth amovible métal
+HBLD083;Pose d'une prothèse amovible définitive à plaque base résine, comportant 11 dents;11;11;;150,50;;;PA0;Prothèse amovible RAC 0;2;O;PA0;RAM;;OUI;;Proth amovible résine
+HBLD084;Pose d'une plaque base résine pour guide chirurgical préimplantaire dentaire pour 2 arcades;;;;0,00;;;IMP;Implantologie;1;N;IMP;;DIM;OUI;;Plaque base résine
+HBLD088;Pose d’une prothèse plurale en extension comportant 1 pilier d’ancrage céramométallique ou en équivalents minéraux et 1 élément en extension céramométallique ou en équivalents minéraux [bridge cantilever 2 éléments], pour le remplacement d’une incisive permanente;2;2;;172,00;;;PFC;Prothèse fixe céramique Tarif libre;;;PFC;;;OUI;;Bridge en extension
+HBLD090;Pose d'une infrastructure coronoradiculaire [Inlay core] sous une couronne ou un pilier de bridge dentoportés sans « reste à charge »Avec ou sans clavetteÀ l'exclusion de : restauration d'une dent par matériau inséré en phase plastique avec ancrage radiculaire (HBMD042)Facturation pour : - couronnes métalliques toutes localisations (HBLD038), - couronnes céramo-métalliques sur incisives, canines et premières prémolaires (HBLD634), - couronnes céramiques-monolithiques (zircone) toutes localisations sauf molaires (HBLD350)- couronnes céramiques-monolithiques (hors zircone) incisives, canines et premières prémolaires (HBLD680)- bridge de base tout métallique (HBLD033)- bridge de base céramométallique pour remplacement d'une incisive (HBLD785)Prise en charge limitée à l'infrastructure coronoradiculaire métallique coulée;1;1;;90,00;;;IC0;Inlay core RAC 0;;;IC0;;;OUI;175,00;Inlay-Core
+HBLD093;"Pose d’une prothèse plurale en extension, collée comportant 1 ancrage coronaire partiel  et 1 élément en extension céramométallique ou en équivalents minéraux [bridge cantilever collé], pour le remplacement d’une incisive maxillaire permanente""";2;2;;83,78;;;PFC;Prothèse fixe céramique Tarif libre;;;PFC;;;OUI;;Bridge en extension
+HBLD101;Pose d'une prothèse amovible définitive à plaque base résine, comportant 9 dents;9;9;;129,00;;;PA0;Prothèse amovible RAC 0;2;O;PA0;RAM;;OUI;;Proth amovible résine
+HBLD112;Pose d'une prothèse amovible définitive à châssis métallique, comportant 12 dents;12;12;;290,25;;;PA1;Prothèse amovible RAC modéré;2;O;PA1;RPA;;OUI;;Proth amovible métal
+HBLD118;Pose d'une prothèse amovible supra-implantaire complète unimaxillaire à plaque base résine;;;;182,75;;;PAR;Prothèse amovible résine Tarif libre;2;O;PAR;RAM;;OUI;;Prothèse supra-implant
+HBLD123;Pose d'une prothèse amovible de transition à plaque base résine, comportant 7 dents;7;7;;107,50;;;PT0;Prothèse amovible de transition RAC 0;2;O;PT0;RAM;;OUI;;Prothèse transitoire
+HBLD131;Pose d'une prothèse amovible définitive à châssis métallique, comportant 1 à 3 dents;1;3;;193,50;;;PA1;Prothèse amovible RAC modéré;2;O;PA1;RPA;;OUI;;Proth amovible métal
+HBLD132;Pose d’une prothèse amovible supra-implantaire à plaque résine comportant moins de 9 dents ;;9;;102,13;;;PAR;Prothèse amovible résine Tarif libre;2;O;PAR;RAM;;OUI;;Prothèse supra-implant
+HBLD138;Pose d'une prothèse amovible définitive à plaque base résine, comportant 10 dents;10;10;;139,75;;;PA0;Prothèse amovible RAC 0;2;O;PA0;RAM;;OUI;;Proth amovible résine
+HBLD148;Pose d'une prothèse amovible de transition à plaque base résine, comportant 9 dents;9;9;;129,00;;;PT0;Prothèse amovible de transition RAC 0;2;O;PT0;RAM;;OUI;;Prothèse transitoire
+HBLD158;Pose d'une couronne dentaire dentoportée céramique monolithique  autre que zircone Facturation : deuxièmes prémolaires et molaires;1;1;;120,00;;;PF1;Prothèse fixe RAC modéré;;;PF1;PFP;;OUI;550,00;Couronne céramique
+HBLD171;Pose d’une prothèse amovible supra-implantaire complète bi-maxillaire à chassis métallique ;;;;623,50;;;PAM;Prothèse amovible métallique Tarif libre;2;O;PAM;RPA;;OUI;;Prothèse supra-implant
+HBLD178;Pose d'une prothèse plurale [bridge] comportant 2 piliers d'ancrage en alliage précieux et 1 élément intermédiaire en alliage précieux ;;;;279,50;0,00;279,50;PFC;Prothèse fixe céramique Tarif libre;;N;PFC;;;NON;;Bridge
+HBLD179;Pose d’une prothèse plurale collée [bridge collé] comportant 2 ancrages coronaires partiels ou plus et 1 élément intermédiaire métallique, pour le remplacement d’une prémolaire ou d'une molaire permanente;3;;;103,06;;;PFM;Prothèse fixe métallique  Tarif libre;;;PFM;;;OUI;;Bridge collé
+HBLD199;Pose d'une prothèse amovible supra-implantaire complète bimaxillaire à plaque base résine;;;;365,50;;;PAR;Prothèse amovible résine Tarif libre;2;O;PAR;RAM;;OUI;;Prothèse supra-implant
+HBLD203;Pose d'une prothèse amovible définitive à châssis métallique, comportant 11 dents;11;11;;279,50;;;PA1;Prothèse amovible RAC modéré;2;O;PA1;RPA;;OUI;;Proth amovible métal
+HBLD215;Pose d'une prothèse amovible de transition à plaque base résine, comportant 11 dents;11;11;;150,50;;;PT0;Prothèse amovible de transition RAC 0;2;O;PT0;RAM;;OUI;;Prothèse transitoire
+HBLD217;Pose d’une prothèse amovible supra-implantaire complète unimaxillaire à chassis métallique;;;;311,75;;;PAM;Prothèse amovible métallique Tarif libre;2;O;PAM;RPA;;OUI;;Prothèse supra-implant
+HBLD224;Pose d'une prothèse amovible de transition à plaque base résine, comportant 5 dents;5;5;;86,00;;;PT0;Prothèse amovible de transition RAC 0;2;O;PT0;RAM;;OUI;;Prothèse transitoire
+HBLD227;Pose d'une prothèse plurale [bridge] comportant 2 piliers d'ancrage céramométalliques et 1 élément intermédiaire céramométallique pour le remplacement d'une dent autre qu'une incisive;3;3;;279,50;0,00;279,50;PF1;Prothèse fixe RAC modéré;;;PF1;;;OUI;;Bridge
+HBLD231;Pose d'une prothèse amovible de transition à plaque base résine, comportant 10 dents;10;10;;139,75;;;PT0;Prothèse amovible de transition RAC 0;2;O;PT0;RAM;;OUI;;Prothèse transitoire
+HBLD232;Pose d'une prothèse amovible de transition à plaque base résine, comportant 13 dents;13;13;;172,00;;;PT0;Prothèse amovible de transition RAC 0;2;O;PT0;RAM;;OUI;;Prothèse transitoire
+HBLD236;Pose d’une prothèse amovible supra-implantaire à chassis métallique  comportant de 9 à 13 dents ;9;13;;279,50;;;PAM;Prothèse amovible métallique Tarif libre;2;O;PAM;RPA;;OUI;;Prothèse supra-implant
+HBLD240;Pose d’une prothèse amovible supra-implantaire à chassis métallique  comportant moins de 9 dents ;;9;;0,00;;;PAM;Prothèse amovible métallique Tarif libre;2;O;PAM;RPA;;OUI;;Prothèse supra-implant
+HBLD245;Pose d'une infrastructure coronoradiculaire [Inlay core] sous une couronne ou un pilier de bridge dentoportés  à « tarif libre »Avec ou sans clavetteÀ l'exclusion de : restauration d'une dent par matériau inséré en phase plastique avec ancrage radiculaire (HBMD042Facturation pour : - couronnes céramo-métalliques sur molaires (HBLD734)- couronnes céramo-céramiques (HBLD403)- bridges de base tout céramique (HBDM046- adjonction de piliers d'ancrage à un bridge de base ( HBMD081, HBMD087);1;1;;90,00;;;ICO;Inlay core Tarif libre;;;ICO;;;OUI;;Inlay Core
+HBLD259;Pose d'une prothèse amovible de transition bimaxillaire complète  à plaque base résine;;;;365,50;;;PT0;Prothèse amovible de transition RAC 0;;;PT0;;;OUI;;Prothèse transitoire
+HBLD262;Pose d'une prothèse amovible de transition à plaque base résine, comportant 12 dents;12;12;;161,25;;;PT0;Prothèse amovible de transition RAC 0;2;O;PT0;RAM;;OUI;;Prothèse transitoire
+HBLD270;Pose d'une prothèse amovible de transition à plaque base résine, comportant 8 dents;8;8;;118,25;;;PT0;Prothèse amovible de transition RAC 0;2;O;PT0;RAM;;OUI;;Prothèse transitoire
+HBLD308;Pose d'une prothèse amovible définitive à châssis métallique, comportant 13 dents;13;13;;301,00;;;PA1;Prothèse amovible RAC modéré;2;O;PA1;RPA;;OUI;;Proth amovible métal
+HBLD318;Pose d'une couronne dentaire dentoportée en alliage précieux ;;;;107,50;;;PFC;Prothèse fixe céramique Tarif libre;;N;PFC;;;NON;;Couronne alliage préc.
+HBLD321;Pose d’une prothèse plurale en extension comportant 1 pilier d’ancrage métallique, 1 pilier d'ancrage céramométallique et 1 élément en extension  céramométallique [bridge cantilever 3 éléments], pour le remplacement d’une incisive permanente ou d’une prémolaire;3;3;;279,50;;;PFC;Prothèse fixe céramique Tarif libre;;;PFC;;;OUI;;Bridge en extension
+HBLD332;Pose d'une prothèse amovible définitive à châssis métallique, comportant 4 dents;4;4;;204,25;;;PA1;Prothèse amovible RAC modéré;2;O;PA1;RPA;;OUI;;Proth amovible métal
+HBLD349;Pose d'une prothèse amovible définitive à plaque base résine, comportant 13 dents;13;13;;172,00;;;PA0;Prothèse amovible RAC 0;2;O;PA0;RAM;;OUI;;Proth amovible résine
+HBLD350;Pose d'une couronne dentaire dentoportée céramique-monolithique (zircone) sur une dent autre qu’une molaire;1;1;;120,00;;;CZ0;Couronne zircone RAC 0;;;CZ0;PFP;;OUI;440,00;Couronne zircone
+HBLD364;Pose d'une prothèse amovible de transition à plaque base résine, comportant 1 à 3 dents;1;3;;64,50;;;PT0;Prothèse amovible de transition RAC 0;2;O;PT0;RAM;;OUI;;Prothèse transitoire
+HBLD370;Pose d'une prothèse amovible définitive à plaque base résine, comportant 12 dents;12;12;;161,25;;;PA0;Prothèse amovible RAC 0;2;O;PA0;RAM;;OUI;;Proth amovible résine
+HBLD371;Pose d'une prothèse amovible de transition à plaque base résine, comportant 6 dents;6;6;;96,75;;;PT0;Prothèse amovible de transition RAC 0;2;O;PT0;RAM;;OUI;;Prothèse transitoire
+HBLD403;Pose d'une couronne dentaire dentoportée céramocéramique ;1;1;;107,50;;;PFC;Prothèse fixe céramique Tarif libre;;;PFC;PFP;;OUI;;Couronne céramocéram
+HBLD403;Pose d'une couronne dentaire dentoportée céramocéramique ;1;1;;107,50;;;PFC;Prothèse fixe céramique Tarif libre;;;PFC;;;OUI;;Couronne céramocéram
+HBLD411;Pose d’une prothèse plurale en extension comportant 2 piliers d’ancrage métallique et 1 élément en extension métallique[bridge cantilever 3 éléments],  pour le remplacement d’une incisive permanente ou d’une prémolaire ;3;3;;279,50;;;PFM;Prothèse fixe métallique  Tarif libre;;;PFM;;;OUI;;Bridge en extension
+HBLD414;Pose d’une prothèse plurale collé [Bridge collé] comportant 2 ancrages coronaires partiels ou plus et 1 élément intermédiaire céramométallique ou en équivalents minéraux,  pour le remplacement d’une prémolaire ou d'une molaire permanente;3;;;103,06;;;PFC;Prothèse fixe céramique Tarif libre;;;PFC;;;OUI;;Bridge collé
+HBLD418;Pose d'une couronne dentaire implantoportée;;;;107,50;;;IMP;Implantologie;2;N;IMP;;;OUI;;Couronne sur implant
+HBLD425;Pose d'une prothèse plurale [bridge] comportant 2 piliers d'ancrage céramo-céramiques et 1 élément intermédiaire céramo-céramique ;3;3;;279,50;0,00;279,50;PFC;Prothèse fixe céramique Tarif libre;;;PFC;;;OUI;;Bridge
+HBLD435;Pose d'une prothèse amovible définitive à châssis métallique, comportant 9 dents;9;9;;258,00;;;PA1;Prothèse amovible RAC modéré;2;O;PA1;RPA;;OUI;;Proth amovible métal
+HBLD452;Pose d'une prothèse amovible définitive à châssis métallique, comportant 5 dents;5;5;;215,00;;;PA1;Prothèse amovible RAC modéré;2;O;PA1;RPA;;OUI;;Proth amovible métal
+HBLD453;Pose d’une prothèse plurale collée [bridge collé]  comportant 2 ancrages coronaires partiels ou plus et 2 éléments intermédiaires céramométalliques ou en équivalents minéraux, pour le remplacement de 2 incisives mandibulaires permanentes;4;;;103,06;;;PFC;Prothèse fixe céramique Tarif libre;;;PFC;;;OUI;;Bridge collé
+HBLD465;Pose d’une prothèse plurale en extension comportant 2 piliers d’ancrage métallique et 1 élément en extension céramo métallique [bridge cantilever 3 éléments],  pour le remplacement d’une incisive permanente ou d’une prémolaire;3;3;;279,50;;;PFM;Prothèse fixe métallique  Tarif libre;;;PFM;;;OUI;;Bridge en extension
+HBLD466;Pose d’une prothèse plurale collée [bridge collé]  comportant 2 ancrages coronaires partiels ou plus et 1 élément intermédiaire céramométallique ou en équivalents minéraux, pour le remplacement d’une incisive permanente;3;;;103,06;;;PFC;Prothèse fixe céramique Tarif libre;;;PFC;;;OUI;;Bridge collé
+HBLD470;Pose d'une prothèse amovible définitive à châssis métallique, comportant 8 dents;8;8;;247,25;;;PA1;Prothèse amovible RAC modéré;2;O;PA1;RPA;;OUI;;Proth amovible métal
+HBLD474;Pose d'une prothèse amovible définitive à châssis métallique, comportant 6 dents;6;6;;225,75;;;PA1;Prothèse amovible RAC modéré;2;O;PA1;RPA;;OUI;;Proth amovible métal
+HBLD476;Pose d'une prothèse amovible de transition à plaque base résine, comportant 4 dents;4;4;;75,25;;;PT0;Prothèse amovible de transition RAC 0;2;O;PT0;RAM;;OUI;;Prothèse transitoire
+HBLD486;Pose d'une couronne dentaire transitoire pour une couronne dentoportée «à tarif libre»Facturation pour : - couronnes céramo-métalliques sur molaires (HBLD734)- couronnes céramo-céramiques (HBLD403)Non facturable pour une couronne définitive réalisée en extemporané, facturable une seule fois par couronne définitive;1;1;;10,00;;;PDT;Couronne transitoire Tarif libre;;;PDT;;;OUI;;Couronne transitoire
+HBLD490;Pose d'une couronne dentaire transitoire pour couronne dentoportée « sans reste à charge »Facturation pour : - couronnes métalliques toutes localisations (HBLD038), - couronnes céramo-métalliques sur incisives, canines et premières prémolaires (HBLD634), - couronnes céramiques-monolithiques (zircone) toutes localisations sauf molaires (HBLD350)- couronnes céramiques-monolithiques (hors zircone) incisives, canines et premières prémolaires (HBLD680)Non facturable pour une couronne définitive réalisée en extemporané, facturable une seule fois par couronne définitive;1;1;;10,00;;;CT0;Couronne transitoire RAC 0;;;CT0;;;OUI;60,00;Couronne transitoire
+HBLD491;Pose d'une couronne dentaire dentoportée céramométallique sur une deuxième prémolaire ;1;1;;120,00;;;PF1;Prothèse fixe RAC modéré;;;PF1;PFP;;;550,00;Couronne céramométal
+HBLD492;Pose d'une prothèse amovible supra-implantaire à plaque base résine, comportant de 9 à 13 dents;9;13;;150,50;;;PAR;Prothèse amovible résine Tarif libre;2;O;PAR;RAM;;OUI;;Prothèse supra-implant
+HBLD634;Pose d'une couronne dentaire dentoportée céramométallique sur une incisive, une canine ou une première prémolaire;1;1;;120,00;;;PF0;Prothèse fixe RAC 0;;;PF0;PFP;;OUI;500,00;Couronne céramométal
+HBLD680;Pose d'une couronne dentaire dentoportée céramique monolithique autre que zircone  Facturation : incisives, canines et premières prémolaires;1;1;;120,00;;;PF0;Prothèse fixe RAC 0;;;PF0;PFP;;OUI;500,00;Couronne céramique
+HBLD724;Pose d'une couronne dentaire transitoire pour une couronne dentoportée «à entente directe limitée»Facturation pour : - couronnes  céramo-métalliques sur deuxièmes prémolaires (HBLD491), - couronnes céramiques-monolithiques (zircone) sur molaires (HBLD073), - couronnes céramiques-monolithiques (hors zircone) sur deuxièmes prémolaires et molaires (HBLD158)Non facturable pour une couronne définitive réalisée en extemporané, facturable une seule fois par couronne définitive;1;1;;10,00;;;CT1;Couronne transitoire RAC modéré;;;CT1;;;OUI;60,00;Couronne transitoire
+HBLD734;Pose d'une couronne dentaire dentoportée céramométallique sur une molaire;1;1;;107,50;;;PFC;Prothèse fixe céramique Tarif libre;;;PFC;PFP;;OUI;;Couronne céramométal
+HBLD745;Pose d'une infrastructure coronoradiculaire [Inlay core] sous une couronne ou un pilier de bridge dentoportés à « entente directe limitée »Avec ou sans clavetteÀ l'exclusion de : restauration d'une dent par matériau inséré en phase plastique avec ancrage radiculaire (HBMD042)Facturation pour : - couronnes  céramo-métalliques sur deuxièmes prémolaires (HBLD491), - couronnes céramiques-monolithiques (zircone) sur molaires (HBLD073), - couronnes céramiques-monolithiques (hors zircone) sur deuxièmes prémolaires et molaires (HBLD158)- bridges de base HBLD040, HBLD043, HBLD227Prise en charge limitée à l'infrastructure coronoradiculaire métallique coulée;1;1;;90,00;;;IC1;Inlay core RAC  modéré;;;IC1;;;OUI;175,00;Inlay Core
+HBLD750;Pose d’une prothèse plurale en extension comportant 2 piliers d’ancrage céramométalliques ou en équivalents minéraux et 1 élément en extension céramométallique ou en équivalents minéraux  [bridge cantilever 3 éléments], pour le remplacement d’une incisive permanente ou d’une prémolaire;3;3;;279,50;;;PFC;Prothèse fixe céramique Tarif libre;;;PFC;;;OUI;;Bridge en extension
+HBLD785;Pose d'une prothèse plurale [bridge] comportant 2 piliers d'ancrage céramométalliques et 1 élément intermédiaire céramométallique pour le remplacement d'une incisive;3;3;;279,50;0,00;279,50;PF0;Prothèse fixe RAC 0;;;PF0;;;OUI;1465,00;Bridge
+HBMA001;Plastie mucogingivale par lambeau déplacé latéralement, coronairement ou apicalement;;;;0,00;;;TDS;Parodontologie (actes sur tissus de soutien de la dent);1;N;TDS;;NR;OUI;;Lambeau
+HBMA003;Ostéoplastie d'une alvéole dentaire avec comblement par autogreffe osseuse;;;;0,00;;;ADC;Actes de chirugie;;N;ADC;;NR;OUI;;Ostéoplastie
+HBMA004;Régénération parodontale sur un sextant;;;;0,00;;;ADC;Actes de chirugie;;N;ADC;;NR;OUI;;Régénération paro
+HBMA006;Ostéoplastie d'une alvéole dentaire avec comblement par biomatériau;;;;0,00;;;ADC;Actes de chirugie;;N;ADC;;NR;OUI;;Ostéoplastie
+HBMD001;Séance d'éclaircissement d’une dent dépulpée;1;1;;0,00;;;END;Actes d'endodontie;;N;END;;NR;OUI;;Séance éclaircissement
+HBMD002;Réparation d'une fracture de châssis métallique de prothèse dentaire amovible, avec remontage d'1 élément;;;;38,70;;;RE1;Réparation prothèse RAC modéré;2;N;RE1;;;OUI;;Réparation
+HBMD003;Séance de renouvellement de l'obturation radiculaire d'une dent permanente immature à l'hydroxyde de calcium;;;;0,00;;;END;Actes d'endodontie;;N;END;;NR;OUI;;Séance de renouvellemt
+HBMD004;Réfection de la base d'une prothèse dentaire amovible complète;;;;0,00;;;RPN;Réparations sur prothèse;;N;RPN;;NR;OUI;;Réfection
+HBMD005;Séance d'éclaircissement des dents pulpées (Blanchiment);;;;0,00;;;END;Actes d'endodontie;;N;END;;NR;OUI;;Séance éclaircissement
+HBMD006;Reconstitution coronaire provisoire pour acte endodontique sur dent délabrée;;;;0,00;;;END;Actes d'endodontie;;N;END;;NR;OUI;;Reconstit. coronaire
+HBMD007;Réfection des bords et/ou de l'intrados d'une prothèse dentaire amovible partielle;;;;0,00;;;RPN;Réparations sur prothèse;;N;RPN;;NR;OUI;;Réfection
+HBMD008;Réparation d'une fracture de châssis métallique de prothèse dentaire amovible, sans démontage d'éléments;;;;32,25;;;RE1;Réparation prothèse RAC modéré;2;N;RE1;;;OUI;;Réparation
+HBMD009;Rescellement et/ou recollage de 3 ancrages d'une prothèse dentaire fixée, ou plus;;;;0,00;;;RPN;Réparations sur prothèse;;N;RPN;;NR;OUI;;Rescellement ancrage
+HBMD014;Modélisation occlusale par la technique de la cire ajoutée sur une dent;1;1;;0,00;;;ATM;Actes techniques médicaux (hors imagerie);;N;ATM;;NR;OUI;;Modélisation occlusale
+HBMD016;Rescellement et/ou recollage d'un ou deux ancrages d'une prothèse dentaire fixée;;;;0,00;;;RPN;Réparations sur prothèse;;N;RPN;;NR;OUI;;Rescellement ancrage
+HBMD017;Adjonction ou changement d'1 élément d'une prothèse dentaire amovible ;;;;21,50;;;RA0;Réparation Adjonction RAC 0;2;N;RA0;;;OUI;;Adjonction/changement
+HBMD018;Séance de préparation [mise en condition] tissulaire des surfaces d'appui muqueux d'une prothèse dentaire, sur une arcade;;;;0,00;;;TDS;Parodontologie (actes sur tissus de soutien de la dent);;N;TDS;;NR;OUI;;Séance de préparation
+HBMD019;Révision des piliers implantoportés d'une prothèse dentaire;;;;0,00;;;RPN;Réparation prothèse Tarif libre;1;N;RPN;;NR;OUI;;Révision piliers
+HBMD020;Réparation d'une prothèse dentaire amovible en résine, fêlée ou fracturée;;;;21,50;;;RS0;Réparation prothèse adjointe simple RAC 0;2;N;RS0;;;NON;;Réparation
+HBMD038;Restauration d’une dent d’un secteur prémolomolaire sur 3 faces ou plus par matériau inséré en phase plastique sans ancrage radiculaire;1;1;;60,95;;;SDE;Soins dentaires;1;N;SDE;;;OUI;;Restauration
+HBMD042;Restauration d'une dent par matériau inséré en phase plastique avec ancrage radiculaire;1;1;;98,00;;;SDE;Soins dentaires;1;N;SDE;;;OUI;;Restauration
+HBMD044;Restauration d'une dent d’un secteur incisivocanin sur 1 angle par matériau inséré en phase plastique, sans ancrage radiculaire;1;1;;60,95;;;SDE;Soins dentaires;1;N;SDE;;;OUI;;Restauration
+HBMD047;Restauration d'une dent d’un secteur incisivocanin sur 2 angles par matériau inséré en phase plastique, sans ancrage radiculaire;1;1;;92,45;;;SDE;Soins dentaires;1;N;SDE;;;OUI;;Restauration
+HBMD048;Pose d'une facette céramique collée sur une dent d’un secteur incisivocanin;1;1;;0,00;;;PFC;Prothèses fixes céramiques;;;PFC;;NR;OUI;;Facette céramique
+HBMD049;Restauration d’une dent d’un secteur prémolomolaire sur 2 faces par matériau inséré en phase plastique sans ancrage radiculaire;1;1;;45,38;;;SDE;Soins dentaires;1;N;SDE;;;OUI;;Restauration
+HBMD050;Restauration d’une dent d’un secteur incisivocanin sur 2 faces par matériau inséré en phase plastique sans ancrage radiculaire;1;1;;45,38;;;SDE;Soins dentaires;1;N;SDE;;;OUI;;Restauration
+HBMD053;Restauration d’une dent d’un secteur prémolomolaire sur 1 face par matériau inséré en phase plastique, sans ancrage radiculaire;1;1;;26,97;;;SDE;Soins dentaires;1;N;SDE;;;OUI;;Restauration
+HBMD054;Restauration d’une dent d’un secteur incisivocanin sur 3 faces ou plus par matériau inséré en phase plastique sans ancrage radiculaire;1;1;;60,95;;;SDE;Soins dentaires;1;N;SDE;;;OUI;;Restauration
+HBMD058;Restauration d’une dent d’un secteur incisivocanin sur 1 face par matériau inséré en phase plastique, sans ancrage radiculaire;1;1;;26,97;;;SDE;Soins dentaires;1;N;SDE;;;OUI;;Restauration
+HBMD061;Séance d'ajustement occlusal par coronoplastie;;;;0,00;;;ATM;Actes techniques médicaux (hors imagerie);;N;ATM;;NR;NON ;;Ajustement occlusal
+HBMD072;Adjonction à une prothèse dentaire plurale fixée d'un élément intermédiaire céramométallique ou en équivalents minéraux supplémentaire, au-delà du 3e ;;;"HBLD040;HBLD043;HBLD033;HBLD785;HBLD227;HBLD425;HBLD178;HBLD088;HBLD750;HBLD411;HBLD321;HBLD465";10,75;0,00;;PFC;Prothèse fixe céramique Tarif libre;2;O;PFC;PFP;;OUI;;Adjonction inter
+HBMD076;Réparation de l'artifice cosmétique d'une dent prothétique par technique directe;1;1;;0,00;;;RPN;Réparations sur prothèse;;N;RPN;;NR;OUI;;Réparation
+HBMD079;Réparation de l'artifice cosmétique d'une dent prothétique par technique indirecte;;;;0,00;;;RPN;Réparations sur prothèse;;N;RPN;;NR;OUI;;Réparation
+HBMD081;Adjonction d'un pilier d'ancrage métallique à une prothèse dentaire plurale fixée [pilier de bridge];;;"HBLD040;HBLD043;HBLD033;HBLD785;HBLD227;HBLD425;HBLD178;HBLD088;HBLD750;HBLD411;HBLD321;HBLD465";107,50;0,00;;PFM;Prothèse fixe métallique  Tarif libre;2;O;PFM;PFP;;OUI;;Adjonction pilier
+HBMD082;Adjonction à une prothèse dentaire plurale fixée d'un élément intermédiaire métallique supplémentaire, au-delà du 3e ;;;"HBLD040;HBLD043;HBLD033;HBLD785;HBLD227;HBLD425;HBLD178;HBLD088;HBLD750;HBLD411;HBLD321;HBLD465";10,75;0,00;;PFM;Prothèse fixe métallique  Tarif libre;2;O;PFM;PFP;;OUI;;Adjonction inter
+HBMD087;Adjonction d'un pilier d'ancrage céramométallique ou en équivalents minéraux  à une prothèse dentaire plurale fixée [pilier de bridge];;;"HBLD040;HBLD043;HBLD033;HBLD785;HBLD227;HBLD425;HBLD178;HBLD088;HBLD750;HBLD411;HBLD321;HBLD465";107,50;0,00;;PFC;Prothèse fixe céramique Tarif libre;2;O;PFC;PFP;;OUI;;Adjonction pilier
+HBMD110;Réparation d'une fracture de châssis métallique de prothèse dentaire amovible, avec remontage de 4 éléments;;;;58,05;;;RE1;Réparation prothèse RAC modéré;2;N;RE1;;;OUI;;Réparation
+HBMD114;Adjonction ou changement de 2 éléments d'une prothèse dentaire amovible;;;;32,25;;;RA0;Réparation Adjonction RAC 0;2;N;RA0;;;OUI;;Adjonction/changement
+HBMD134;Adjonction ou changement de 13 éléments d'une prothèse dentaire amovible;;;;150,50;;;RA0;Réparation Adjonction RAC 0;2;N;RA0;;;OUI;;Adjonction/changement
+HBMD174;Adjonction ou changement de 14 éléments d'une prothèse dentaire amovible;;;;161,25;;;RA0;Réparation Adjonction RAC 0;2;N;RA0;;;OUI;;Adjonction/changement
+HBMD188;Adjonction ou changement de 3 éléments soudés d'une prothèse dentaire amovible sur châssis métallique;;;;129,00;;;RE1;Réparation prothèse RAC modéré;2;N;RE1;;;OUI;;Adjonction/changement
+HBMD198;Adjonction ou changement de 6 éléments d'une prothèse dentaire amovible;;;;75,25;;;RA0;Réparation Adjonction RAC 0;2;N;RA0;;;OUI;;Adjonction/changement
+HBMD200;Adjonction ou changement de 13 éléments soudés d'une prothèse dentaire amovible sur châssis métallique;;;;559,00;;;RE1;Réparation prothèse RAC modéré;2;N;RE1;;;OUI;;Adjonction/changement
+HBMD226;Adjonction ou changement de 11 éléments d'une prothèse dentaire amovible;;;;129,00;;;RA0;Réparation Adjonction RAC 0;2;N;RA0;;;OUI;;Adjonction/changement
+HBMD228;Adjonction ou changement de 8 éléments d'une prothèse dentaire amovible;;;;96,75;;;RA0;Réparation Adjonction RAC 0;2;N;RA0;;;OUI;;Adjonction/changement
+HBMD245;Adjonction ou changement de 5 éléments d'une prothèse dentaire amovible;;;;64,50;;;RA0;Réparation Adjonction RAC 0;2;N;RA0;;;OUI;;Adjonction/changement
+HBMD249;Adjonction ou changement d'1 élément soudé sur une prothèse dentaire amovible sur châssis métallique;;;;43,00;;;RE1;Réparation prothèse RAC modéré;2;N;RE1;;;OUI;;Adjonction/changement
+HBMD281;Adjonction ou changement de 12 éléments soudés d'une prothèse dentaire amovible sur châssis métallique;;;;516,00;;;RE1;Réparation prothèse RAC modéré;2;N;RE1;;;OUI;;Adjonction/changement
+HBMD283;Adjonction ou changement de 5 éléments soudés d'une prothèse dentaire amovible sur châssis métallique;;;;215,00;;;RE1;Réparation prothèse RAC modéré;2;N;RE1;;;OUI;;Adjonction/changement
+HBMD286;Adjonction ou changement de 9 éléments d'une prothèse dentaire amovible;;;;107,50;;;RA0;Réparation Adjonction RAC 0;2;N;RA0;;;OUI;;Adjonction/changement
+HBMD289;Réparation d'une fracture de châssis métallique de prothèse dentaire amovible, avec remontage de 13 éléments;;;;116,10;;;RE1;Réparation prothèse RAC modéré;2;N;RE1;;;OUI;;Adjonction/changement
+HBMD292;Adjonction ou changement de 2 éléments soudés d'une prothèse dentaire amovible sur châssis métallique;;;;86,00;;;RE1;Réparation prothèse RAC modéré;2;N;RE1;;;OUI;;Adjonction/changement
+HBMD298;Adjonction ou changement de 14 éléments soudés d'une prothèse dentaire amovible sur châssis métallique;;;;602,00;;;RE1;Réparation prothèse RAC modéré;2;N;RE1;;;OUI;;Adjonction/changement
+HBMD312;Réparation d'une fracture de châssis métallique de prothèse dentaire amovible, avec remontage de 12 éléments;;;;109,65;;;RE1;Réparation prothèse RAC modéré;2;N;RE1;;;OUI;;Adjonction/changement
+HBMD322;Adjonction ou changement de 3 éléments d'une prothèse dentaire amovible;;;;43,00;;;RA0;Réparation Adjonction RAC 0;2;N;RA0;;;OUI;;Adjonction/changement
+HBMD329;Adjonction ou changement de 10 éléments d'une prothèse dentaire amovible;;;;118,25;;;RA0;Réparation Adjonction RAC 0;2;N;RA0;;;OUI;;Adjonction/changement
+HBMD339;Réparation d'une fracture de châssis métallique de prothèse dentaire amovible, avec remontage de 7 éléments;;;;77,40;;;RE1;Réparation prothèse RAC modéré;2;N;RE1;;;OUI;;Réparation
+HBMD342;Adjonction d'un 2e élément intermédiaire métallique à une prothèse dentaire plurale  [3e élément métallique  intermédiaire de bridge] ;;;"HBLD040;HBLD043;HBLD033;HBLD785;HBLD227;HBLD425;HBLD178;HBLD088;HBLD750;HBLD411;HBLD321;HBLD465";0,10;0,00;;PFM;Prothèse fixe métallique  Tarif libre;2;;PFM;;NR;OUI;;Adjonction inter
+HBMD349;Réparation d'une fracture de châssis métallique de prothèse dentaire amovible, avec remontage de 5 éléments;;;;64,50;;;RE1;Réparation prothèse RAC modéré;2;N;RE1;;;OUI;;Réparation
+HBMD351;Restauration d’une dent sur 2 faces ou plus par matériau incrusté [inlay-onlay] composite ou en alliage non précieux ;1;1;;100,00;;;IN1;Inlay onlay RAC modéré;;;IN1;;;OUI;;Inlay-onlay
+HBMD356;Réparation d'une prothèse dentaire amovible en résine avec renfort métallique, fêlée ou fracturée;1;;;21,50;;;RA0;Réparation prothèse adjointe simple RAC 0;;;RA0;;;OUI;;Réparation
+HBMD373;Adjonction ou changement de 7 éléments d'une prothèse dentaire amovible;;;;86,00;;;RA0;Réparation Adjonction RAC 0;2;N;RA0;;;OUI;;Adjonction/changement
+HBMD386;Réparation d'une fracture de châssis métallique de prothèse dentaire amovible, avec remontage de 6 éléments;;;;70,95;;;RE1;Réparation prothèse RAC modéré;2;N;RE1;;;OUI;;Réparation
+HBMD387;Adjonction ou changement de 12 éléments d'une prothèse dentaire amovible;;;;139,75;;;RA0;Réparation Adjonction RAC 0;2;N;RA0;;;OUI;;Adjonction/changement
+HBMD400;Réparation d'une fracture de châssis métallique de prothèse dentaire amovible, avec remontage de 14 éléments;;;;122,55;;;RE1;Réparation prothèse RAC modéré;2;N;RE1;;;OUI;;Réparation
+HBMD404;Adjonction ou changement de 4 éléments d'une prothèse dentaire amovible;;;;53,75;;;RA0;Réparation Adjonction RAC 0;2;N;RA0;;;OUI;;Adjonction/changement
+HBMD410;Adjonction ou changement de 10 éléments soudés d'une prothèse dentaire amovible sur châssis métallique;;;;430,00;;;RE1;Réparation prothèse RAC modéré;2;N;RE1;;;OUI;;Adjonction/changement
+HBMD425;Adjonction ou changement de 7 éléments soudés d'une prothèse dentaire amovible sur châssis métallique;;;;301,00;;;RE1;Réparation prothèse RAC modéré;2;N;RE1;;;OUI;;Adjonction/changement
+HBMD429;Adjonction ou changement de 11 éléments soudés d'une prothèse dentaire amovible sur châssis métallique;;;;473,00;;;RE1;Réparation prothèse RAC modéré;2;N;RE1;;;OUI;;Adjonction/changement
+HBMD432;Adjonction ou changement de 4 éléments soudés d'une prothèse dentaire amovible sur châssis métallique;;;;172,00;;;RE1;Réparation prothèse RAC modéré;2;N;RE1;;;OUI;;Adjonction/changement
+HBMD433;Adjonction d'un 2e élément intermédiaire céramométallique ou en équivalents minéraux à une prothèse dentaire plurale fixée [3e élément  céramométallique ou en équivalents minérauxcintermédiaire de bridge] ;;;"HBLD040;HBLD043;HBLD033;HBLD785;HBLD227;HBLD425;HBLD178;HBLD088;HBLD750;HBLD411;HBLD321;HBLD465";0,10;0,00;;PFC;Prothèse fixe céramique Tarif libre;2;;PFC;;NR;OUI;;Adjonction inter
+HBMD438;Réparation d'une fracture de châssis métallique de prothèse dentaire amovible, avec remontage de 9 éléments;;;;90,30;;;RE1;Réparation prothèse RAC modéré;2;N;RE1;;;OUI;;Réparation
+HBMD439;Adjonction ou changement de 6 éléments soudés d'une prothèse dentaire amovible sur châssis métallique;;;;258,00;;;RE1;Réparation prothèse RAC modéré;2;N;RE1;;;OUI;;Adjonction/changement
+HBMD444;Adjonction ou changement de 8 éléments soudés d'une prothèse dentaire amovible sur châssis métallique;;;;344,00;;;RE1;Réparation prothèse RAC modéré;2;N;RE1;;;OUI;;Adjonction/changement
+HBMD449;Réparation d'une fracture de châssis métallique de prothèse dentaire amovible, avec remontage de 11 éléments;;;;103,20;;;RE1;Réparation prothèse RAC modéré;2;N;RE1;;;OUI;;Réparation
+HBMD459;Réparation d'une fracture de châssis métallique de prothèse dentaire amovible, avec remontage de 8 éléments;;;;83,85;;;RE1;Réparation prothèse RAC modéré;2;N;RE1;;;OUI;;Réparation
+HBMD460;Restauration d’une dent sur 2 faces ou plus par matériau incrusté [inlay-onlay] céramique ou en alliage précieux;1;1;;100,00;;;INO;Inlay onlay Tarif libre;;;INO;;;OUI;;Inlay-onlay
+HBMD469;Réparation d'une fracture de châssis métallique de prothèse dentaire amovible, avec remontage de 3 éléments;;;;51,60;;;RE1;Réparation prothèse RAC modéré;2;N;RE1;;;OUI;;Réparation
+HBMD479;Adjonction d'un 1er élément intermédiaire céramométallique ou en équivalents minéraux à une prothèse dentaire plurale fixée [2e élément céramométallique ou en équivalents minéraux intermédiaire de bridge] ;;;"HBLD040;HBLD043;HBLD033;HBLD785;HBLD227;HBLD425;HBLD178;HBLD088;HBLD750;HBLD411;HBLD321;HBLD465";0,10;0,00;;PFC;Prothèse fixe céramique Tarif libre;2;;PFC;;NR;OUI;;Adjonction inter
+HBMD481;Réparation d'une fracture de châssis métallique de prothèse dentaire amovible, avec remontage de 10 éléments;;;;96,75;;;RE1;Réparation prothèse RAC modéré;2;N;RE1;;;OUI;;Réparation
+HBMD485;Adjonction ou changement de 9 éléments soudés d'une prothèse dentaire amovible sur châssis métallique;;;;387,00;;;RE1;Réparation prothèse RAC modéré;2;N;RE1;;;OUI;;Adjonction/changement
+HBMD488;Réparation d'une fracture de châssis métallique de prothèse dentaire amovible, avec remontage de 2 éléments;;;;45,15;;;RE1;Réparation prothèse RAC modéré;2;N;RE1;;;OUI;;Réparation
+HBMD490;Adjonction d'un 1er élément intermédiaire métallique à une prothèse dentaire plurale fixée [2e élément métallique intermédiaire de bridge] ;;;"HBLD040;HBLD043;HBLD033;HBLD785;HBLD227;HBLD425;HBLD178;HBLD088;HBLD750;HBLD411;HBLD321;HBLD465";0,10;0,00;;PFM;Prothèse fixe métallique  Tarif libre;2;;PFM;;NR;OUI;;Adjonction inter
+HBMD689;Adjonction d'1 élément en extension céramométallique ou en équivalents minéraux, autre qu'une canine, à une prothèse plurale fixée  [bridge] comportant au moins 2 piliers d'ancrage et un élément intermédiaire;3;;"HBLD040;HBLD043;HBLD033;HBLD785;HBLD227;HBLD425;HBLD178;HBLD088;HBLD750;HBLD411;HBLD321;HBLD465";10,75;;;PFC;Prothèse fixe céramique Tarif libre;;;PFC;;;OUI;;Adj élement extens.
+HBMD776;Adjonction d'un élément en extension métallique, autre qu'une canine, à une prothèse plurale fixée [bridge] comportant au moins 2 piliers d'ancrage et 1 élément intermédiaire;3;;"HBLD040;HBLD043;HBLD033;HBLD785;HBLD227;HBLD425;HBLD178;HBLD088;HBLD750;HBLD411;HBLD321;HBLD465";10,75;;;PFM;Prothèse fixe métallique  Tarif libre;;;PFM;;;OUI;;Adj élement extens.
+HBMP001;Transformation d'un guide radiologique préimplantaire en guide chirurgical;;;;0,00;;;IMP;Implantologie;1;N;IMP;;DIM;OUI;;Transformation guide
+HBPA001;Dégagement d'une dent retenue ou incluse, avec pose d'un dispositif de traction orthodontique et aménagement parodontal par greffe ou lambeau;;;;146,30;;;ADC;Actes de chirugie;1;N;ADC;;;OUI;;Dégagement
+HBPD001;Dégagement de plusieurs dents retenues ou incluses avec pose de dispositif de traction orthodontique;;;;156,75;;;ADC;Actes de chirugie;1;N;ADC;;;OUI;;Dégagement
+HBPD002;Dégagement d'une dent retenue ou incluse avec pose d'un dispositif de traction orthodontique sans aménagement parodontal;;;;104,50;;;ADC;Actes de chirugie;1;N;ADC;;;OUI;;Dégagement
+HBQD001;Bilan parodontal;;;;0,00;;;TDS;Parodontologie (actes sur tissus de soutien de la dent);;N;TDS;;NR;NON ;;Bilan parodontal
+HBQK001;Radiographie pelvibuccale [occlusale];;;;7,98;;;ADI;Actes d'imagerie (hors échographie);1;N;ADI;;;NON;;Radiographie dentaire
+HBQK002;Radiographie panoramique dentomaxillaire;;;;20,00;;;ADI;Actes d'imagerie (hors échographie);1;N;ADI;;;NON;;Radiographie dentaire
+HBQK040;Radiographies intrabuccales rétroalvéolaires pour acte endodontique sur un secteur de 1 à 3 dents contigües comportant une radiographie pré ou per interventionnelle et une radiographie finale;1;3;;11,97;;;ADI;Actes d'imagerie (hors échographie);1;N;ADI;;;OUI;;Radiographie dentaire
+HBQK041;Radiographies intrabuccales rétroalvéolaires et/ou rétrocoronaires de 14 secteurs distincts de 1 à 3 dents contigües;;;;111,72;;;ADI;Actes d'imagerie (hors échographie);1;N;ADI;;;OUI;;Radiographie dentaire
+HBQK046;Radiographies intrabuccales rétroalvéolaires et/ou rétrocoronaires de 9 secteurs distincts de 1 à 3 dents contigües;1;3;;71,82;;;ADI;Actes d'imagerie (hors échographie);1;N;ADI;;;OUI;;Radiographie dentaire
+HBQK061;Radiographie intrabuccale rétroalvéolaire et/ou rétrocoronaire d'un secteur de 1 à 3 dents contigües, perinterventionnelle et/ou finale, en dehors  d'un acte thérapeutique endodontique;;;;3,99;;;ADI;Actes d'imagerie (hors échographie);1;N;ADI;;;OUI;;Radiographie dentaire
+HBQK065;Radiographies intrabuccales rétroalvéolaires et/ou rétrocoronaires de 10 secteurs distincts de 1 à 3 dents contigües;1;3;;79,80;;;ADI;Actes d'imagerie (hors échographie);1;N;ADI;;;OUI;;Radiographie dentaire
+HBQK093;Radiographies intrabuccales rétroalvéolaires et/ou rétrocoronaires de 13 secteurs distincts de 1 à 3 dents contigües;;;;103,74;;;ADI;Actes d'imagerie (hors échographie);1;N;ADI;;;OUI;;Radiographie dentaire
+HBQK142;Radiographies intrabuccales rétroalvéolaires et/ou rétrocoronaires de 8 secteurs distincts de 1 à 3 dents contigües;1;3;;63,84;;;ADI;Actes d'imagerie (hors échographie);1;N;ADI;;;OUI;;Radiographie dentaire
+HBQK191;Radiographies intrabuccales rétroalvéolaires et/ou rétrocoronaires de 2 secteurs distincts de 1 à 3 dents contigües;1;3;;15,96;;;ADI;Actes d'imagerie (hors échographie);1;N;ADI;;;OUI;;Radiographie dentaire
+HBQK303;Radiographies intrabuccales rétroalvéolaires pour acte endodontique sur un secteur de 1 à 3 dents contigües comportant une radiographie préinterventionnelle, une radiographie perinterventionnelle et une radiographie finale;1;3;;15,96;;;ADI;Actes d'imagerie (hors échographie);1;N;ADI;;;OUI;;Radiographie dentaire
+HBQK331;Radiographies intrabuccales rétroalvéolaires et/ou rétrocoronaires de 3 secteurs distincts de 1 à 3 dents contigües;1;3;;23,94;;;ADI;Actes d'imagerie (hors échographie);1;N;ADI;;;OUI;;Radiographie dentaire
+HBQK389;Radiographie intrabuccale rétroalvéolaire et/ou rétrocoronaire d'un secteur de 1 à 3 dents contigües (hors trt endo);1;3;;7,98;;;ADI;Actes d'imagerie (hors échographie);1;N;ADI;;;OUI;;Radiographie dentaire
+HBQK424;Radiographies intrabuccales rétroalvéolaires et/ou rétrocoronaires de 11 secteurs distincts de 1 à 3 dents contigües;1;3;;87,78;;;ADI;Actes d'imagerie (hors échographie);1;N;ADI;;;OUI;;Radiographie dentaire
+HBQK428;Radiographies intrabuccales rétroalvéolaires et/ou rétrocoronaires de 5 secteurs distincts de 1 à 3 dents contigües;1;3;;39,90;;;ADI;Actes d'imagerie (hors échographie);1;N;ADI;;;OUI;;Radiographie dentaire
+HBQK430;Radiographies intrabuccales rétroalvéolaires et/ou rétrocoronaires de 7 secteurs distincts de 1 à 3 dents contigües;1;3;;55,86;;;ADI;Actes d'imagerie (hors échographie);1;N;ADI;;;OUI;;Radiographie dentaire
+HBQK443;Radiographies intrabuccales rétroalvéolaires et/ou rétrocoronaires de 4 secteurs distincts de 1 à 3 dents contigües;1;3;;31,92;;;ADI;Actes d'imagerie (hors échographie);1;N;ADI;;;OUI;;Radiographie dentaire
+HBQK476;Radiographies intrabuccales rétroalvéolaires et/ou rétrocoronaires de 12 secteurs distincts de 1 à 3 dents contigües;1;3;;95,76;;;ADI;Actes d'imagerie (hors échographie);1;N;ADI;;;OUI;;Radiographie dentaire
+HBQK480;Radiographies intrabuccales rétroalvéolaires et/ou rétrocoronaires de 6 secteurs distincts de 1 à 3 dents contigües;1;3;;47,88;;;ADI;Actes d'imagerie (hors échographie);1;N;ADI;;;OUI;;Radiographie dentaire
+HBSD001;Hémostase gingivoalvéolaire secondaire à une avulsion dentaire;;;;22,05;;;ATM;Actes techniques médicaux (hors imagerie);;N;ATM;;;OUI;;Hémostase gingiv.
+HCNM900;Lithotritie de la glande parotide;;;;0,00;;;ATM;Actes techniques médicaux (hors imagerie);;N;ATM;;NR;NON;;Lithotritie
+HCNM901;Lithotritie de la glande submandibulaire;;;;0,00;;;ATM;Actes techniques médicaux (hors imagerie);;N;ATM;;NR;NON;;Lithotritie
+HDQP002;Exploration du flux aérien bucco-naso-pharyngé par débitmétrie, pour étude de la fonction vélopalatine;;;;0,00;;;ATM;Actes techniques médicaux (hors imagerie);;N;ATM;;NR;NON;;Explor. flux aérien
+LABA002;Désépaississement des tissus de recouvrement d'un site implantaire;;;;0,00;;;ATM;Actes techniques médicaux (hors imagerie);;N;ATM;;NR;OUI;;Désépaississement
+LAPB001;Dégagement et activation de 4 implants intraosseux intrabuccaux, chez l'adulte;;;;0,00;;;ADC;Actes de chirugie;1;N;ADC;;NR;OUI;;Vis de cicatrisation
+LAPB002;Dégagement et activation d'1 implant intraosseux intrabuccaux, chez l'adulte;;;;0,00;;;ADC;Actes de chirugie;1;N;ADC;;NR;OUI;;Vis de cicatrisation
+LAPB003;Dégagement et activation de 3 implants intraosseux intrabuccaux, chez l'adulte;;;;0,00;;;ADC;Actes de chirugie;1;N;ADC;;NR;OUI;;Vis de cicatrisation
+LAPB004;Dégagement et activation de 2 implants intraosseux intrabuccaux, chez l'adulte;;;;0,00;;;ADC;Actes de chirugie;1;N;ADC;;NR;OUI;;Vis de cicatrisation
+LAPB005;Dégagement et activation de 5 implants intraosseux intrabuccaux, chez l'adulte;;;;0,00;;;ADC;Actes de chirugie;1;N;ADC;;NR;OUI;;Vis de cicatrisation
+LAPB006;Dégagement et activation de 6 implants intraosseux intrabuccaux, chez l'adulte;;;;0,00;;;ADC;Actes de chirugie;1;N;ADC;;NR;OUI;;Vis de cicatrisation
+LAPB007;Dégagement et activation de 7 implants intraosseux intra buccaux, chez l'adulte;;;;0,00;;;ADC;Actes de chirugie;1;N;ADC;;NR;OUI;;Vis de cicatrisation
+LAPB030;Dégagement et activation de 9 implants intraosseux intrabuccaux, chez l'adulte;;;;0,00;;;ADC;Actes de chirugie;1;N;ADC;;NR;OUI;;Vis de cicatrisation
+LAPB047;Dégagement et activation de 8 implants intraosseux intrabuccaux, chez l'adulte;;;;0,00;;;ADC;Actes de chirugie;1;N;ADC;;NR;OUI;;Vis de cicatrisation
+LAPB122;Dégagement et activation de 10 implants intraosseux intrabuccaux, chez l'adulte;;;;0,00;;;ADC;Actes de chirugie;1;N;ADC;;NR;OUI;;Vis de cicatrisation
+LAPB288;Dégagement et activation de 11 implants intraosseux intrabuccaux ou plus;;;;0,00;;;ADC;Actes de chirugie;;N;ADC;;NR;OUI;;Vis de cicatrisation
+LAPB311;Dégagement et activation de 2 implants intraosseux intrabuccaux, chez l'enfant;;;;0,00;;;ADC;Actes de chirugie;;;ADC;;NR;OUI;;Vis de cicatrisation
+LAPB408;Dégagement et activation de 4 implants intraosseux intrabuccaux, chez l'enfant;;;;0,00;;;ADC;Actes de chirugie;1;N;ADC;;NR;OUI;;Vis de cicatrisation
+LAPB451;Dégagement et activation d'1 implant intraosseux intrabuccal, chez l'enfant;;;;0,00;;;ADC;Actes de chirugie;1;N;ADC;;NR;OUI;;Vis de cicatrisation
+LAPB459;Dégagement et activation de 3 implants intraosseux intrabuccaux, chez l'enfant;;;;0,00;;;ADC;Actes de chirugie;1;N;ADC;;NR;OUI;;Vis de cicatrisation
+LAQK001;Téléradiographie du crâne et du massif facial selon 2 incidences;;;;26,60;;;ADI;Actes d'imagerie (hors échographie);;N;ADI;;;NON;;Téléradiographie
+LAQK008;Téléradiographie du crâne et du massif facial selon 3 incidences;;;;26,60;;;ADI;Actes d'imagerie (hors échographie);;N;ADI;;;NON;;Téléradiographie
+LAQK012;Téléradiographie du crâne et du massif facial selon 1 incidence;;;;19,95;;;ADI;Actes d'imagerie (hors échographie);;N;ADI;;;NON;;Téléradiographie
+LAQK013;Scanographie de la face;;;;25,27;;;ADI;Actes d'imagerie (hors échographie);;N;ADI;;;NON ;;Scanographie
+LAQK027;Radiographie volumique par faisceau conique [cone beam computerized tomography, CBCT] du maxillaire, de la mandibule et/ou d’arcade dentaire;;;;69,00;;;ADI;Actes d'imagerie (hors échographie);;N;ADI;;;NON;;Radiographie dentaire
+LBFA031;Résection d'hypertrophie osseuse intrabuccale;;;;34,55;;;ADC;Actes de chirugie;;N;ADC;;;OUI;;Résection
+LBGA002;Ablation de 3 implants intraosseux intrabuccaux avec résection osseuse, chez l'adulte;;;;0,00;;;ADC;Actes de chirugie;1;N;ADC;;NR;OUI;;Ablation implant
+LBGA003;Ablation de 2 implants intraosseux intrabuccaux avec résection osseuse, chez l'adulte;;;;0,00;;;ADC;Actes de chirugie;1;N;ADC;;NR;OUI;;Ablation implant
+LBGA004;Ablation d'un implant intraosseux intrabuccal avec résection osseuse;;;;0,00;;;ADC;Actes de chirugie;1;N;ADC;;NR;OUI;;Ablation implant
+LBGA006;Ablation de 4 implants intraosseux intrabuccaux avec résection osseuse, chez l'adulte;;;;0,00;;;ADC;Actes de chirugie;1;N;ADC;;NR;OUI;;Ablation implant
+LBGA007;Ablation de 5 implants intraosseux intrabuccaux avec résection osseuse, chez l'adulte;;;;0,00;;;ADC;Actes de chirugie;1;N;ADC;;NR;OUI;;Ablation implant
+LBGA008;Ablation de 6 implants intraosseux intrabuccaux avec résection osseuse, chez l'adulte;;;;0,00;;;ADC;Actes de chirugie;1;N;ADC;;NR;OUI;;Ablation implant
+LBGA009;Ablation de 7 implants intraosseux intrabuccaux avec résection osseuse, chez l'adulte;;;;0,00;;;ADC;Actes de chirugie;1;N;ADC;;NR;OUI;;Ablation implant
+LBGA049;Ablation de 4 implants intraosseux intrabuccaux avec résection osseuse, chez l'enfant;;;;0,00;;;ADC;Actes de chirugie;1;N;ADC;;NR;OUI;;Ablation implant
+LBGA052;Ablation de 9 implants intraosseux intrabuccaux avec résection osseuse, chez l'adulte;;;;0,00;;;ADC;Actes de chirugie;1;N;ADC;;NR;OUI;;Ablation implant
+LBGA113;Ablation de 11 implants intraosseux intrabuccaux ou plus, avec résection osseuse;;;;0,00;;;ADC;Actes de chirugie;;N;ADC;;NR;OUI;;Ablation implant
+LBGA139;Ablation de 8 implants intraosseux intrabuccaux avec résection osseuse, chez l'adulte;;;;0,00;;;ADC;Actes de chirugie;1;N;ADC;;NR;OUI;;Ablation implant
+LBGA168;Ablation de 10 implants intraosseux intrabuccaux avec résection osseuse, chez l'adulte;;;;0,00;;;ADC;Actes de chirugie;1;N;ADC;;NR;OUI;;Ablation implant
+LBGA280;Ablation d'1 implant intraosseux intrabuccal avec résection osseuse, chez l'enfant;;;;0,00;;;ADC;Actes de chirugie;1;N;ADC;;NR;OUI;;Ablation implant
+LBGA354;Ablation de 3 implants intraosseux intrabuccaux avec résection osseuse, chez l'enfant;;;;0,00;;;ADC;Actes de chirugie;1;N;ADC;;NR;OUI;;Ablation implant
+LBGA441;Ablation de 2 implants intraosseux intrabuccal avec résection osseuse, chez l'enfant;;;;0,00;;;ADC;Actes de chirugie;1;N;ADC;;NR;OUI;;Ablation implant
+LBGD001;Ablation de moyen de contention maxillaire et/ou mandibulaire intrabuccal;;;;41,80;;;TDS;Parodontologie (actes sur tissus de soutien de la dent);;N;TDS;;;OUI;;Ablation contention
+LBLD001;Pose d'un châssis métallique support de prothèse maxillofaciale [prothèse obturatrice];;;;129,00;;;ATM;Actes techniques médicaux (hors imagerie);2;N;ATM;;;NON;;Pose Chassis métal
+LBLD003;Pose d'une gouttière maxillaire ou mandibulaire pour hémostase ou portetopique;;;;0,00;;;ATM;Actes techniques médicaux (hors imagerie);1;N;ATM;;NR;NON ;;Pose gouttière
+LBLD004;Pose de 4 implants intraosseux intrabuccaux, chez l'adulte;;;;0,00;;;IMP;Implantologie;1;N;IMP;;DIM;OUI;;Pose implants
+LBLD006;Pose de gouttières maxillaire et mandibulaire pour hémostase ou portetopique;;;;0,00;;;ATM;Actes techniques médicaux (hors imagerie);1;N;ATM;;NR;NON ;;Pose gouttière
+LBLD007;Pose d'un appareillage de protection dentomaxillaire;;;;0,00;;;ATM;Actes techniques médicaux (hors imagerie);;N;ATM;;NR;NON ;;Pose d'appareillage
+LBLD010;Pose de 2 implants intraosseux intrabuccaux, chez l'adulte;;;;0,00;;;IMP;Implantologie;1;N;IMP;;DIM;OUI;;Pose implants
+LBLD012;Pose de dispositif intrabuccal d'expansion tissulaire pour rehaussement de crête alvéolaire;;;;0,00;;;ATM;Actes techniques médicaux (hors imagerie);;N;ATM;;NR;NON ;;Dispositif expansion
+LBLD013;Pose de 3 implants intraosseux intrabuccaux, chez l'adulte;;;;0,00;;;IMP;Implantologie;1;N;IMP;;DIM;OUI;;Pose implants
+LBLD014;Pose d'une orthèse métallique recouvrant totalement ou partiellement une arcade dentaire;;;;172,80;;;ATM;Actes techniques médicaux (hors imagerie);1;N;ATM;;;OUI;;Pose orthèse métal
+LBLD015;Pose d'1 implant intraosseux intrabuccal, chez l'adulte;;;;0,00;;;IMP;Implantologie;1;N;IMP;;DIM;OUI;;Pose implant
+LBLD017;Pose d'un appareillage en propulsion mandibulaire;;;;150,00;;;PA1;Prothèse amovible RAC modéré;;;PA1;;;OUI;280,00;Pose d'appareillage
+LBLD019;Pose de moyen de liaison sur 1 implant préprothétique intraosseux intrabuccal;;;;0,00;;;IMP;Implantologie;1;N;IMP;;DIM;OUI;;Faux Moignon Implant.
+LBLD020;Pose de 5 implants intraosseux intrabuccaux, chez l'adulte;;;;0,00;;;IMP;Implantologie;1;N;IMP;;DIM;OUI;;Pose implants
+LBLD025;Pose de 6 implants intraosseux intrabuccaux, chez l'adulte;;;;0,00;;;IMP;Implantologie;1;N;IMP;;DIM;OUI;;Pose implants
+LBLD026;Pose de 7 implants intraosseux intrabuccaux, chez l'adulte;;;;0,00;;;IMP;Implantologie;1;N;IMP;;DIM;OUI;;Pose implants
+LBLD034;Pose de barre de conjonction entre 2 implants intrabuccaux;;;;0,00;;;IMP;Implantologie;1;N;IMP;;DIM;OUI;;Barre de conjonction
+LBLD038;Pose de 8 implants intraosseux intrabuccaux, chez l'adulte;;;;0,00;;;IMP;Implantologie;1;N;IMP;;DIM;OUI;;Pose implants
+LBLD057;Pose de barre de conjonction entre 3 implants intrabuccaux ou plus;;;;0,00;;;IMP;Implantologie;1;N;IMP;;DIM;OUI;;Barre de conjonction
+LBLD066;Pose de 2 implants intraosseux intrabuccaux chez l'enfant;;;;0,00;;;IMP;Implantologie;1;N;IMP;;DIM;OUI;;Pose implants
+LBLD073;Pose de moyen de liaison sur 2 implants préprothétiques intraosseux intrabuccaux;;;;0,00;;;IMP;Implantologie;1;N;IMP;;DIM;OUI;;Faux Moignon Implant.
+LBLD075;Pose d'1 implant intraosseux intrabuccal, chez l'enfant;;;;0,00;;;IMP;Implantologie;1;N;IMP;;DIM;OUI;;Pose implant
+LBLD086;Pose de moyen de liaison sur 3 implants préprothétiques intraosseux intrabuccaux;;;;0,00;;;IMP;Implantologie;1;N;IMP;;DIM;OUI;;Faux Moignon Implant.
+LBLD117;Pose de 4 implants intraosseux intrabuccaux chez l'enfant;;;;0,00;;;IMP;Implantologie;1;N;IMP;;DIM;OUI;;Pose implants
+LBLD143;Pose de moyen de liaison sur 7 implants préprothétiques intraosseux intrabuccaux;;;;0,00;;;IMP;Implantologie;1;N;IMP;;DIM;OUI;;Faux Moignon Implant.
+LBLD193;Pose de moyen de liaison sur 4 implants préprothétiques intraosseux intrabuccaux;;;;0,00;;;IMP;Implantologie;1;N;IMP;;DIM;OUI;;Faux Moignon Implant.
+LBLD200;Pose de 9 implants intraosseux intrabuccaux, chez l'adulte;;;;0,00;;;IMP;Implantologie;1;N;IMP;;DIM;OUI;;Pose implants
+LBLD214;Pose de moyen de liaison sur 10 implants préprothétiques intraosseux intrabuccaux;;;;0,00;;;IMP;Implantologie;1;N;IMP;;DIM;OUI;;Faux Moignon Implant.
+LBLD235;Pose de moyen de liaison sur 8 implants préprothétiques intraosseux intrabuccaux;;;;0,00;;;IMP;Implantologie;1;N;IMP;;DIM;OUI;;Faux Moignon Implant.
+LBLD261;Pose de 11 implants intraosseux intrabuccaux ou plus;;;;0,00;;;IMP;Implantologie;;N;IMP;;DIM;OUI;;Pose implants
+LBLD270;Pose de moyen de liaison sur 6 implants préprothétiques intraosseux intrabuccaux;;;;0,00;;;IMP;Implantologie;1;N;IMP;;DIM;OUI;;Faux Moignon Implant.
+LBLD281;Pose de 3 implants intraosseux intrabuccaux chez l'enfant;;;;0,00;;;IMP;Implantologie;1;N;IMP;;DIM;OUI;;Pose implants
+LBLD294;Pose de 10 implants intraosseux intrabuccaux, chez l'adulte;;;;0,00;;;IMP;Implantologie;1;N;IMP;;DIM;OUI;;Pose implants
+LBLD311;Pose de moyen de liaison sur 9 implants préprothétiques intraosseux intrabuccaux;;;;0,00;;;IMP;Implantologie;1;N;IMP;;DIM;OUI;;Faux Moignon Implant.
+LBLD420;Pose de moyen de liaison sur 11 implants préprothétiques intraosseux intrabuccaux ou plus;;;;0,00;;;IMP;Implantologie;;N;IMP;;DIM;OUI;;Faux Moignon Implant.
+LBLD447;Pose de moyen de liaison sur 5 implants préprothétiques intraosseux intrabuccaux;;;;0,00;;;IMP;Implantologie;1;N;IMP;;DIM;OUI;;Faux Moignon Implant.
+LBMP001;Simulation des objectifs thérapeutiques sur moulages des arcades dentaires et/ou sur logiciel;;;;0,00;;;ATM;Actes techniques médicaux (hors imagerie);1;N;ATM;;NR;NON;;Simulation
+LBMP002;Montage directeur sur moulage d'étude des arcades dentaires;;;;0,00;;;ATM;Actes techniques médicaux (hors imagerie);;N;ATM;;NR;NON;;Montage directeur
+LBMP003;Réalisation de moulage d'étude des arcades dentaires;;;;0,00;;;ATM;Actes techniques médicaux (hors imagerie);;N;ATM;;NR;NON;;Réalisation de moulage
+LBQP001;Enregistrement des rapports maxillomandibulaires en vue de la programmation d'un articulateur;;;;0,00;;;ATM;Actes techniques médicaux (hors imagerie);1;N;ATM;;NR;NON;;Enregistrement électro
+LBQP002;Enregistrement électronique des mouvements de la mandibule;;;;0,00;;;ATM;Actes techniques médicaux (hors imagerie);;N;ATM;;NR;NON;;Enregistrement électro
+YYYY079;Supplément pour pose de 10 dents contreplaquées ou massives à une prothèse amovible sur châssis métallique;10;10;;322,50;;;SU1;Supplément prothèse métallique RAC modéré;2;O;SU1;RPA;;OUI;;Supplément prothèse
+YYYY142;Supplément pour pose de 7 dents contreplaquées ou massives à une prothèse amovible sur châssis métallique;7;7;;225,75;;;SU1;Supplément prothèse métallique RAC modéré;2;O;SU1;RPA;;OUI;;Supplément prothèse
+YYYY158;Supplément pour pose de 8 dents contreplaquées ou massives à une prothèse amovible sur châssis métallique;8;8;;258,00;;;SU1;Supplément prothèse métallique RAC modéré;2;O;SU1;RPA;;OUI;;Supplément prothèse
+YYYY159;Supplément pour pose d'une dent contreplaquée ou massive à une prothèse amovible sur châssis métallique;1;1;;32,25;;;SU1;Supplément prothèse métallique RAC modéré;2;O;SU1;RPA;;OUI;;Supplément prothèse
+YYYY176;Supplément pour pose d'une dent contreplaquée sur une prothèse amovible à plaque base résine;1;1;;21,50;;;SU0;Supplément prothèse résine RAC 0;2;O;SU0;RPA;;OUI;;Supplément prothèse
+YYYY184;Supplément pour pose de 11 dents contreplaquées ou massives à une prothèse amovible sur châssis métallique;11;11;;354,75;;;SU1;Supplément prothèse métallique RAC modéré;2;O;SU1;RPA;;OUI;;Supplément prothèse
+YYYY236;Supplément pour pose de 13 dents contreplaquées ou massives à une prothèse amovible sur châssis métallique;13;13;;419,25;;;SU1;Supplément prothèse métallique RAC modéré;2;O;SU1;RPA;;OUI;;Supplément prothèse
+YYYY246;Supplément pour pose de 3 dents contreplaquées sur une prothèse amovible à plaque base résine;3;3;;64,50;;;SU0;Supplément prothèse résine RAC 0;2;O;SU0;RPA;;OUI;;Supplément prothèse
+YYYY258;Supplément pour pose de 3 dents contreplaquées ou massives à une prothèse amovible sur châssis métallique;3;3;;96,75;;;SU1;Supplément prothèse métallique RAC modéré;2;O;SU1;RPA;;OUI;;Supplément prothèse
+YYYY259;Supplément pour pose de 4 dents contreplaquées ou massives à une prothèse amovible sur châssis métallique;4;4;;129,00;;;SU1;Supplément prothèse métallique RAC modéré;2;O;SU1;RPA;;OUI;;Supplément prothèse
+YYYY275;Supplément pour pose de 2 dents contreplaquées sur une prothèse amovible à plaque base résine;2;2;;43,00;;;SU0;Supplément prothèse résine RAC 0;2;O;SU0;RPA;;OUI;;Supplément prothèse
+YYYY284;Supplément pour pose de 12 dents contreplaquées ou massives à une prothèse amovible sur châssis métallique;12;12;;387,00;;;SU1;Supplément prothèse métallique RAC modéré;2;O;SU1;RPA;;OUI;;Supplément prothèse
+YYYY329;Supplément pour pose de 2 dents contreplaquées ou massives à une prothèse amovible sur châssis métallique;2;2;;64,50;;;SU1;Supplément prothèse métallique RAC modéré;2;O;SU1;RPA;;OUI;;Supplément prothèse
+YYYY353;Supplément pour pose de 14 dents contreplaquées ou massives à une prothèse amovible sur châssis métallique;14;14;;451,50;;;SU1;Supplément prothèse métallique RAC modéré;2;O;SU1;RPA;;OUI;;Supplément prothèse
+YYYY389;Supplément pour pose de 6 dents contreplaquées sur une prothèse amovible à plaque base résine;6;6;;129,00;;;SU0;Supplément prothèse résine RAC 0;2;O;SU0;RPA;;OUI;;Supplément prothèse
+YYYY426;Supplément pour pose de 5 dents contreplaquées sur une prothèse amovible à plaque base résine;5;5;;107,50;;;SU0;Supplément prothèse résine RAC 0;2;O;SU0;RPA;;OUI;;Supplément prothèse
+YYYY440;Supplément pour pose de 5 dents contreplaquées ou massives à une prothèse amovible sur châssis métallique;5;5;;161,25;;;SU1;Supplément prothèse métallique RAC modéré;2;O;SU1;RPA;;OUI;;Supplément prothèse
+YYYY447;Supplément pour pose de 6 dents contreplaquées ou massives à une prothèse amovible sur châssis métallique;6;6;;193,50;;;SU1;Supplément prothèse métallique RAC modéré;2;O;SU1;RPA;;OUI;;Supplément prothèse
+YYYY465;Supplément pour examen spécifique préalable et postérieur à l’acte de pose d'un appareillage en propulsion mandibulaire dans le traitement du syndrome d'apnées-hypopnées obstructives du sommeil;;;;70,00;;;ATM;Actes techniques médicaux (hors imagerie);;N;ATM;;;NON;;Supplément prothèse
+YYYY476;Supplément pour pose de 9 dents contreplaquées ou massives à une prothèse amovible sur châssis métallique;9;9;;290,25;;;SU1;Supplément prothèse métallique RAC modéré;2;O;SU1;RPA;;OUI;;Supplément prothèse
+YYYY478;Supplément pour pose de 4 dents contreplaquées sur une prothèse amovible à plaque base résine;4;4;;86,00;;;SU0;Supplément prothèse résine RAC 0;2;O;SU0;RPA;;OUI;;Supplément prothèse
+ZALP002;Pose d'une épithèse faciale plurirégionale;;;;0,00;;;ATM;Actes techniques médicaux (hors imagerie);2;N;ATM;;NR;NON;;Pose épithèse faciale
+ZAQP001;Photographies de la face;;;;0,00;;;ADI;Actes d'imagerie (hors échographie);;N;ADI;;NR;NON;;Photographie face
